@@ -1,0 +1,512 @@
+Type of product,Category,Sub industry,Industry,Status,Generic product type,Search Modifiers
+H1-All purpose cleaner,Households - 1. All-purpose cleaners,Home,Households,Catalogue 2024 S1,General purpose cleaner,
+H2-Glass cleaner,Households - 2. Glass cleaners,Home,Households,Catalogue 2024 S1,Glass cleaner,
+H3-Kitchen degreaser,Households - 3. Kitchen cleaners,Home,Households,Catalogue 2024 S1,Degreaser,
+H3-Oven and grill cleaner,Households - 3. Kitchen cleaners,Home,Households,Catalogue 2024 S1,Degreaser,
+H3-Stainless steel cleaner,Households - 3. Kitchen cleaners,Home,Households,Catalogue 2024 S1,Stainless steel cleaner,
+H3-General sanitizer for vegetable and salad washing,Households - 3. Kitchen cleaners,Home,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+H4-Toilet bowl cleaner,Households - 4. Bathroom cleaners,Home,Households,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+H4-Shower and tub cleaner,Households - 4. Bathroom cleaners,Home,Households,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+H4-Mold and mildew remover,Households - 4. Bathroom cleaners,Home,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+H4-Tile and grout cleaner,Households - 4. Bathroom cleaners,Home,Households,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+H5-Hardwood floor cleaner,Households - 5. Floor cleaners,Home,Households,Catalogue 2024 S1,Floor cleaner,
+H5-Tile and laminate cleaner,Households - 5. Floor cleaners,Home,Households,Catalogue 2024 S1,Floor cleaner,
+H5-Wax and floor polish,Households - 5. Floor cleaners,Home,Households,Catalogue 2024 S1,Floor polish,
+H5-Marble cleaner,Households - 5. Floor cleaners,Home,Households,Catalogue 2024 S1,Marble floor cleaner,
+H6-Wood polish for furniture,Households - 6. Furniture cleaners,Home,Households,Catalogue 2024 S1,Furniture polish,
+H6-Leather cleaner,Households - 6. Furniture cleaners,Home,Households,Catalogue 2024 S1,Leather and vinyl cleaner,
+H7-Carpet shampoo,Households - 7. Upholstery cleaners,Home,Households,Catalogue 2024 S1,Carpet shampoo,
+H7-Spot remover for carpets,Households - 7. Upholstery cleaners,Home,Households,Catalogue 2024 S1,Stain remover,
+H7-Fabric freshener for furnitures,Households - 7. Upholstery cleaners,Home,Households,Catalogue 2024 S1,Fabric refresher,
+H8-Surface disinfectant spray,Households - 8. Disinfectant & sanitizers,Home,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+H8-Disinfectant wipes,Households - 8. Disinfectant & sanitizers,Home,Households,Catalogue 2024 S1,Cleaning wet wipes,
+H9-Stain remover for laundry,Households - 9. Laundry,Home,Households,Catalogue 2024 S1,Stain remover,
+H9-Fabric refresher,Households - 9. Laundry,Home,Households,Catalogue 2024 S1,Fabric refresher,
+H9-Stain remover on the go,Households - 9. Laundry,Home,Households,Catalogue 2024 S1,Stain remover,
+H11-Aerosol air freshener,Households - 11. Air fresheners and deodorizers,Home,Households,Catalogue 2024 S1,Air freshener,
+H11-Odor neutralizing spray,Households - 11. Air fresheners and deodorizers,Home,Households,Catalogue 2024 S1,Odor eliminator,air
+C1-Car wash shampoo,Automotive - 1. Car wash soaps and shampoos,Automotive,Transportation,Catalogue 2024 S1,Vehicle wet wash shampoo,
+C1-Waterless car wash product,Automotive - 1. Car wash soaps and shampoos,Automotive,Transportation,Catalogue 2024 S1,Vehicle dry wash exterior cleaner,
+C2-Wheel cleaner,Automotive - 2. Wheel and tire cleaners,Automotive,Transportation,Catalogue 2024 S1,Degreaser,
+C2-Wheel brightener,Automotive - 2. Wheel and tire cleaners,Automotive,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+C3-Car glass cleaner,Automotive - 3. Glass and windshield cleaners,Automotive,Transportation,Catalogue 2024 S1,Glass cleaner,
+C4-Car upholstery cleaner,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Upholstery cleaner,
+C4-Car leather cleaner,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Leather and vinyl cleaner,
+C4-Car leather conditioner,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Leather and vinyl conditioner,
+C4-Car dashboard and plastic protectant,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+C4-Car surface disinfectant,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+C4-Car surface disinfectant wet rags,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Cleaning wet wipes,
+C4-Car air freshener,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Air freshener,
+C4-Car odor eliminator,Automotive - 4. Car interior cleaners,Automotive,Transportation,Catalogue 2024 S1,Odor eliminator,
+C5-Car gum remover,Automotive - 5. Car wax and detailing,Automotive,Transportation,Catalogue 2024 S1,Gum remover,
+C5-Car water spot remover,Automotive - 5. Car wax and detailing,Automotive,Transportation,Catalogue 2024 S1,Stain remover,
+C5-Car bug and poop remover,Automotive - 5. Car wax and detailing,Automotive,Transportation,Catalogue 2024 S1,Bug remover,
+C6-Car engine degreaser,Automotive - 6. Engine and undercarriage cleaners,Automotive,Transportation,Catalogue 2024 S1,Degreaser,
+C7-Microfiber for vehicle cleaning,Automotive - 7. Other transportation products or items,Automotive,Transportation,Catalogue 2024 S1,Microfiber,
+C7-Long brush for seating cleaning,Automotive - 7. Other transportation products or items,Automotive,Transportation,Catalogue 2024 S1,Brush,automotive
+P1-Deodorizing wipes for pets,Pets - 1. Pet grooming wipes and sprays,Pets,Households,Catalogue 2024 S1,Cleaning wet wipes,
+P1-Waterless shampoo for pets,Pets - 1. Pet grooming wipes and sprays,Pets,Households,Catalogue 2024 S1,Pet dry shampoo,
+P2-Pet-specific odor eliminator for home,Pets - 2. Pet odor eliminators and deodorizers,Pets,Households,Catalogue 2024 S1,Odor eliminator,
+P2-Air freshener for pets,Pets - 2. Pet odor eliminators and deodorizers,Pets,Households,Catalogue 2024 S1,Air freshener,
+P2-Fabric freshener for pets,Pets - 2. Pet odor eliminators and deodorizers,Pets,Households,Catalogue 2024 S1,Fabric refresher,
+P2-Litter box deodorizer,Pets - 2. Pet odor eliminators and deodorizers,Pets,Households,Catalogue 2024 S1,Odor eliminator,
+P3-Pet urine odor remover,Pets - 3. Pet stain and urine removers,Pets,Households,Catalogue 2024 S1,Odor eliminator,
+P3-Carpet cleaner for pet accidents,Pets - 3. Pet stain and urine removers,Pets,Households,Catalogue 2024 S1,Carpet shampoo,
+P4-Flea and tick home spray,"Pets - 4. Pet flea, tick and pest control",Pets,Households,Catalogue 2024 S1,Bug repellent,
+P5-Antiseptic spray for pets,Pets - 5. Pet wound and skin care,Pets,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+P5-Pet-safe wound washes,Pets - 5. Pet wound and skin care,Pets,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+P6-Pet-safe disinfectant and cleaner,Pets - 6. Pet specialty cleaning supplies,Pets,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+P6-Cage and habitat cleaner,Pets - 6. Pet specialty cleaning supplies,Pets,Households,Catalogue 2024 S1,Disinfectant and cleaner,
+P6-Aquarium cleaner ,Pets - 6. Pet specialty cleaning supplies,Pets,Households,Catalogue 2024 S1,Disinfectant and cleaner,Liquid treatment
+A1-Leather cleaner,Aviation - 1. Aircraft interior cleaners,Aviation,Transportation,Catalogue 2024 S1,Leather and vinyl cleaner,aerosense:deep cleaner leather; aerosense:leather cleaner conditioner
+A1-Leather conditioner,Aviation - 1. Aircraft interior cleaners,Aviation,Transportation,Catalogue 2024 S1,Leather and vinyl conditioner,aerosense:leather conditioner; aerosense:leather cleaner conditioner
+A1-Wet wipes for various cleaning purposes,Aviation - 1. Aircraft interior cleaners,Aviation,Transportation,Catalogue 2024 S1,Cleaning wet wipes,aerosense:cabin cleaning wipes triple action; aerosense:avionics wipes
+A2-Broad-spectrum disinfectant for surfaces,Aviation - 2. Aircraft disinfectants and sanitizers,Aviation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,aerosense:cabin disinfectant ready use; aerosense:cabin disinfectant concentrate
+A3-Streak-free window cleaner,Aviation - 3. Aicraft glass and mirror cleaners,Aviation,Transportation,Catalogue 2024 S1,Glass cleaner,aerosense:windshield cleaner; aerosense:airframe cleaner
+A3-Cockpit glass cleaner,Aviation - 3. Aicraft glass and mirror cleaners,Aviation,Transportation,Catalogue 2024 S1,Glass cleaner,aerosense:windshield cleaner; aerosense:airframe cleaner
+A3-Mirror and plexiglass cleaner,Aviation - 3. Aicraft glass and mirror cleaners,Aviation,Transportation,Catalogue 2024 S1,Glass cleaner,aerosense:windshield cleaner; aerosense:airframe cleaner
+A4-Lavatory disinfectant,Aviation - 4. Aicraft restroom maintenance products,Aviation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,aerosense:flushman lavatory additive
+A4-Toilet and urinal cleaner,Aviation - 4. Aicraft restroom maintenance products,Aviation,Transportation,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+A4-Odor urinal neutralizer,Aviation - 4. Aicraft restroom maintenance products,Aviation,Transportation,Catalogue 2024 S1,Odor eliminator,
+A4-Aircraft air freshener,Aviation - 4. Aicraft restroom maintenance products,Aviation,Transportation,Catalogue 2024 S1,Air freshener,aerosense:aeroscent air freshener
+A4-Aircraft-grade gentle hand soap,Aviation - 4. Aicraft restroom maintenance products,Aviation,Transportation,Catalogue 2024 S1,Hand soap,
+A5-Food-safe surface cleaner,Aviation - 5. Aicraft galley cleaning supplies,Aviation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,aerosense:cabin cleaner triple action
+A5-Stainless steel polisher,Aviation - 5. Aicraft galley cleaning supplies,Aviation,Transportation,Catalogue 2024 S1,Stainless steel cleaner,
+A6-Non-slip floor cleaner,Aviation - 6. Aircraft floor care products,Aviation,Transportation,Catalogue 2024 S1,Floor cleaner,aerosense:hangar floor cleaner
+A6-Heavy-duty floor degreaser ,Aviation - 6. Aircraft floor care products,Aviation,Transportation,Catalogue 2024 S1,Floor cleaner,
+A6-Aircraft carpet shampoo,Aviation - 6. Aircraft floor care products,Aviation,Transportation,Catalogue 2024 S1,Carpet shampoo,
+A6-Aircraft carpet spot remover,Aviation - 6. Aircraft floor care products,Aviation,Transportation,Catalogue 2024 S1,Carpet shampoo,aerosense:carpet cleaner
+A7-Aicraft wet wash shampoo,Aviation - 7. Exterior aircraft cleaners,Aviation,Transportation,Catalogue 2024 S1,Vehicle wet wash shampoo,
+A7-Aircraft dry wash exterior cleaner,Aviation - 7. Exterior aircraft cleaners,Aviation,Transportation,Catalogue 2024 S1,Vehicle dry wash exterior cleaner,
+A7-Insect and soil remover,Aviation - 7. Exterior aircraft cleaners,Aviation,Transportation,Catalogue 2024 S1,Bug remover,aerosense:insect remover
+A12-Evacuation slide cleaner,Aviation - 12. Safety and emergency equipment cleaners,Aviation,Transportation,Catalogue 2024 S1,General purpose cleaner,
+A12-Evacuation slide lubricant,Aviation - 12. Safety and emergency equipment cleaners,Aviation,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+A12-Life vest cleaner,Aviation - 12. Safety and emergency equipment cleaners,Aviation,Transportation,Catalogue 2024 S1,General purpose cleaner,
+A12-Life vest protectant,Aviation - 12. Safety and emergency equipment cleaners,Aviation,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+A15-Potable water tank cleaner,Aviation - 15. Potable water and fuel tank cleaners,Aviation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+A15-Fuel tank cleaner,Aviation - 15. Potable water and fuel tank cleaners,Aviation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+A17-Portable fabric refresher for crew and passengers,Aviation - 17. Employee and passenger personal care products,Aviation,Transportation,Catalogue 2024 S1,Fabric refresher,
+A17-Hand cleaner and degreaser for maintenance,Aviation - 17. Employee and passenger personal care products,Aviation,Transportation,Catalogue 2024 S1,Degreaser,
+A18-Brush for seating cleaning,Aviation - 18. Other aviation products or items,Aviation,Transportation,Catalogue 2024 S1,Brush,
+A18-Sponge for aircraft cleaning,Aviation - 18. Other aviation products or items,Aviation,Transportation,Catalogue 2024 S1,Sponge,
+V1-General purpose cleaner for high-traffic area surfaces,Airports - 1. High-traffic area cleaners,Airports,Transportation,Catalogue 2024 S1,General purpose cleaner,
+V1-High performance carpet cleaner for lounges and waiting areas,Airports - 1. High-traffic area cleaners,Airports,Transportation,Catalogue 2024 S1,Carpet shampoo,
+V1-Stain spot remover for high-use seating areas,Airports - 1. High-traffic area cleaners,Airports,Transportation,Catalogue 2024 S1,Stain remover,
+V2-Industrial-strength floor cleaner for heavy foot traffic-areas,Airports - 2. Floor care and safety,Airports,Transportation,Catalogue 2024 S1,Floor cleaner,
+V2-Marble floor cleaner for heavy foot traffic-areas,Airports - 2. Floor care and safety,Airports,Transportation,Catalogue 2024 S1,Marble floor cleaner,
+V2-Hardwood and laminate floor cleaner,Airports - 2. Floor care and safety,Airports,Transportation,Catalogue 2024 S1,Floor cleaner,
+"V2-Gum remover for floors, carpets or upholstery",Airports - 2. Floor care and safety,Airports,Transportation,Catalogue 2024 S1,Gum remover,
+V3-Broad-spectrum disinfectant for surfaces and touchpoints,Airports - 3. Disinfectants and sanitizers,Airports,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant
+V3-Surface cleaning and disinfectant wet rags,Airports - 3. Disinfectants and sanitizers,Airports,Transportation,Catalogue 2024 S1,Cleaning wet wipes,
+V4-Heavy-duty toilet and urinal cleaner,Airports - 4. Restroom maintenance products,Airports,Transportation,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+V4-Restroom deodorizer,Airports - 4. Restroom maintenance products,Airports,Transportation,Catalogue 2024 S1,Odor eliminator,
+V4-Restroom air freshener,Airports - 4. Restroom maintenance products,Airports,Transportation,Catalogue 2024 S1,Air freshener,
+V5-Streak-free glass cleaner for large window areas,Airports - 5. Glass and window cleaners,Airports,Transportation,Catalogue 2024 S1,Glass cleaner,fine:glass cleaner
+V6-Stainless steel polish and cleaner for fixtures and fittings,Airports - 6. Metal and escalator cleaners,Airports,Transportation,Catalogue 2024 S1,Stainless steel cleaner,
+V6-Escalator cleaner,Airports - 6. Metal and escalator cleaners,Airports,Transportation,Catalogue 2024 S1,General purpose cleaner,
+V6-Escalator tread brightener,Airports - 6. Metal and escalator cleaners,Airports,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+V7-Epoxy cleaner for heavy-traffic parking lot area,Airports - 7. Outdoor maintenance supplies,Airports,Transportation,Catalogue 2024 S1,Epoxy cleaner,
+V8-Food-safe surface disinfectant for dining areas,Airports - 8. Food court and lounge area cleaners,Airports,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+V8-Degreaser for food service areas,Airports - 8. Food court and lounge area cleaners,Airports,Transportation,Catalogue 2024 S1,Degreaser,
+V9-Conveyor belt cleaner,Airports - 9. Baggage area maintenance,Airports,Transportation,Catalogue 2024 S1,General purpose cleaner,
+V9-Conveyor belt degreaser,Airports - 9. Baggage area maintenance,Airports,Transportation,Catalogue 2024 S1,Degreaser,
+V9-Luggage trolley sanitizing products,Airports - 9. Baggage area maintenance,Airports,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+V10-HVAC system cleaner,Airports - 10. Air quality and ventilation,Airports,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+V10-HVAC system deodorizer,Airports - 10. Air quality and ventilation,Airports,Transportation,Catalogue 2024 S1,Odor eliminator,
+R1-Food-grade sanitizers for countertops and prep areas,Restaurant - 1. Food surface cleaners,Restaurants,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,
+R1-No-rinse sanitizers for quick cleaning,Restaurant - 1. Food surface cleaners,Restaurants,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,
+R1-Sanitizing wipes for tables and equipment,Restaurant - 1. Food surface cleaners,Restaurants,Horeca,Catalogue 2024 S1,Cleaning wet wipes,
+R1-General sanitizer for vegetable and salad washing,Restaurant - 1. Food surface cleaners,Restaurants,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,
+R1-Wood furniture cleaner,Restaurant - 1. Food surface cleaners,Restaurants,Horeca,Catalogue 2024 S1,Furniture polish,
+R1-Glass cleaner,Restaurant - 1. Food surface cleaners,Restaurants,Horeca,Catalogue 2024 S1,Glass cleaner,fine:glass cleaner
+R2-Heavy-duty kitchen degreaser for grills and hoods,Restaurant - 2. Kitchen degreasers,Restaurants,Horeca,Catalogue 2024 S1,Degreaser,
+R2-Oven and fryer cleaner,Restaurant - 2. Kitchen degreasers,Restaurants,Horeca,Catalogue 2024 S1,Degreaser,
+R3-Antibacterial hand soap,Restaurant - 3. Hand hygiene,Restaurants,Horeca,Catalogue 2024 S1,Hand soap,fine:Liquid Soap Fine Solutions
+R3-Hand sanitizer (gel) for staff and customers,Restaurant - 3. Hand hygiene,Restaurants,Horeca,Catalogue 2024 S1,Hand sanitizer,fine:Antibacterial Gel
+R3-Hand sanitizer (liquid) for staff and customers,Restaurant - 3. Hand hygiene,Restaurants,Horeca,Catalogue 2024 S1,Hand sanitizer,
+R5-Non-slip floor cleaner for safety,Restaurant - 5. Floor cleaners,Restaurants,Horeca,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner
+R5-Floor degreaser for kitchen areas,Restaurant - 5. Floor cleaners,Restaurants,Horeca,Catalogue 2024 S1,Floor cleaner,
+R6-Kitchen air freshener,Restaurant - 6. Kitchen odor control,Restaurants,Horeca,Catalogue 2024 S1,Air freshener,
+R6-Kitchen odor eliminator,Restaurant - 6. Kitchen odor control,Restaurants,Horeca,Catalogue 2024 S1,Odor eliminator,
+R6-Grease trap odor treatment,Restaurant - 6. Kitchen odor control,Restaurants,Horeca,Catalogue 2024 S1,Odor eliminator,
+R6-Refrigerator and freezer deodorizer,Restaurant - 6. Kitchen odor control,Restaurants,Horeca,Catalogue 2024 S1,Odor eliminator,
+R8-Stainless steel polish for equipment and fixtures,Restaurant - 8. Polishes and stainless steel cleaners,Restaurants,Horeca,Catalogue 2024 S1,Stainless steel cleaner,
+R8-Metal polish for cookware and utensils,Restaurant - 8. Polishes and stainless steel cleaners,Restaurants,Horeca,Catalogue 2024 S1,Stainless steel cleaner,
+R8-Glass polish for display cases and windows,Restaurant - 8. Polishes and stainless steel cleaners,Restaurants,Horeca,Catalogue 2024 S1,Glass cleaner,fine:glass cleaner
+R11-Heavy-duty toilet and urinal cleaner,Restaurant - 11. Restroom maintenance products,Restaurants,Horeca,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+R11-Sewage odor control,Restaurant - 11. Restroom maintenance products,Restaurants,Horeca,Catalogue 2024 S1,Odor eliminator,
+R11-Shower and tile cleaner,Restaurant - 11. Restroom maintenance products,Restaurants,Horeca,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+F1-FM general purpose cleaner,Facilities management - 1. General purpose cleaners,Facilities management,Facilities management,Catalogue 2024 S1,General purpose cleaner,officesupply:general purpose cleaner
+F1-FM wood furniture cleaner,Facilities management - 1. General purpose cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime
+F1-FM leather cleaner,Facilities management - 1. General purpose cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Leather and vinyl cleaner,officesupply:leather cleaner
+F2-FM general hard floor cleaner,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+F2-FM hard floor polish,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Floor polish,
+F2-FM high performance waterless carpet cleaner,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Upholstery cleaner,
+F2-FM high performance carpet shampoo,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Carpet shampoo,gogreen:carpet shampoo
+F2-FM stain spot remover,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Stain remover,gogreen:stain remover
+F2-FM marble floor cleaner,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Marble floor cleaner,
+F2-FM hardwood and laminate floor cleaner,Facilities management - 2. Floor care products,Facilities management,Facilities management,Catalogue 2024 S1,Floor cleaner,officesupply: wood floor cleaner
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Facilities management - 3. Disinfectants and sanitizers,Facilities management,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+F3-FM surface sanitizing wipes,Facilities management - 3. Disinfectants and sanitizers,Facilities management,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+F4-FM heavy-duty toilet and urinal cleaner,Facilities management - 4. Restroom maintenance products,Facilities management,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:toilet cleaner
+F4-FM restroom deodorizer,Facilities management - 4. Restroom maintenance products,Facilities management,Facilities management,Catalogue 2024 S1,Odor eliminator,officesupply:Blue Drops Automatic Bowl Cleaner - Hygiene Supplies | unbranded
+F4-FM restroom air freshener,Facilities management - 4. Restroom maintenance products,Facilities management,Facilities management,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+F4-FM shower and tile cleaner,Facilities management - 4. Restroom maintenance products,Facilities management,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply: bathroom cleaner
+F5-FM streak-free glass cleaner for large window areas,Facilities management - 5. Glass and window cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Glass cleaner,fine:glass cleaner;  gogreen:glass cleaner; officesupply:glass cleaner
+F6-FM degreaser for food service areas,Facilities management - 6. Kitchen and food service cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Degreaser, gogreen:Degrease and Multi-Purpose 12PcsX1 LTR; officesupply:degreaser
+F6-FM grill cleaner,Facilities management - 6. Kitchen and food service cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Degreaser,officesupply:grill cleaner
+F6-FM oven and appliance cleaner,Facilities management - 6. Kitchen and food service cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Degreaser,gogreen:oven kitchen cleaner
+F6-FM food-safe surface sanitizers,Facilities management - 6. Kitchen and food service cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Surface Cleaner and Disinfectant; officesupply:surface sanitizer
+F7-FM air freshener,Facilities management - 7. Air care and odor control,Facilities management,Facilities management,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+F7-FM odor eliminator,Facilities management - 7. Air care and odor control,Facilities management,Facilities management,Catalogue 2024 S1,Odor eliminator,officesupply:odor eliminator
+F8-FM stainless steel polish and cleaner for fixtures and fittings,Facilities management - 8. Metal and escalator cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Stainless steel cleaner,gogreen:stainless steel; officesupply:stainless steel cleaner
+F8-FM escalator cleaner,Facilities management - 8. Metal and escalator cleaners,Facilities management,Facilities management,Catalogue 2024 S1,General purpose cleaner,
+F8-FM escalator tread brightener,Facilities management - 8. Metal and escalator cleaners,Facilities management,Facilities management,Catalogue 2024 S1,Surface lubricant and protectant,
+F9-FM epoxy cleaner for heavy-traffic parking lot area,Facilities management - 9. Outdoor maintenance supplies,Facilities management,Facilities management,Catalogue 2024 S1,Epoxy cleaner,
+F9-FM parking floor cleaner,Facilities management - 9. Outdoor maintenance supplies,Facilities management,Facilities management,Catalogue 2024 S1,Parking floor cleaner,
+F10-FM HVAC system cleaner,Facilities management - 10. Air quality and ventilation,Facilities management,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Air Conditioner and Coil Cleaner 
+F10-FM HVAC system deodorizer,Facilities management - 10. Air quality and ventilation,Facilities management,Facilities management,Catalogue 2024 S1,Odor eliminator,
+F11-Fabric refresher,Facilities management - 11. Laundry products,Facilities management,Facilities management,Catalogue 2024 S1,Fabric refresher,
+I1-General purpose cleaner,Faith - 1. General purpose cleaners,Faith,Facilities management,Catalogue 2024 S1,General purpose cleaner,officesupply:general purpose cleaner
+I1-Wood furniture cleaner,Faith - 1. General purpose cleaners,Faith,Facilities management,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime 
+I2-General hard floor cleaner,Faith - 2. Floor care products,Faith,Facilities management,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+I2-Hard floor polish,Faith - 2. Floor care products,Faith,Facilities management,Catalogue 2024 S1,Floor polish,
+I2-Marble floor cleaner,Faith - 2. Floor care products,Faith,Facilities management,Catalogue 2024 S1,Marble floor cleaner,
+I2-Hardwood and laminate floor cleaner,Faith - 2. Floor care products,Faith,Facilities management,Catalogue 2024 S1,Floor cleaner,officesupply:wood floor cleaner
+I3-Low-moisture waterless carpet cleaner,Faith - 3. Carpet and rug cleaners,Faith,Facilities management,Catalogue 2024 S1,Carpet shampoo,
+I3-High performance carpet shampoo,Faith - 3. Carpet and rug cleaners,Faith,Facilities management,Catalogue 2024 S1,Carpet shampoo,gogreen:carpet shampoo
+I3-Stain spot remover,Faith - 3. Carpet and rug cleaners,Faith,Facilities management,Catalogue 2024 S1,Stain remover,gogreen: stain remover
+"I4-Broad-spectrum disinfectant for surfaces, shoe racks and storage areas",Faith - 4. Disinfectants and sanitizers,Faith,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+I4-Surface sanitizing wipes,Faith - 4. Disinfectants and sanitizers,Faith,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+I5-Mildew and mold remover for wet areas,Faith - 5. Ablution area cleaners,Faith,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,
+I6-Heavy-duty toilet and urinal cleaner,Faith - 6. Restroom cleaners,Faith,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:toilet cleaner
+I6-Restroom deodorizer,Faith - 6. Restroom cleaners,Faith,Facilities management,Catalogue 2024 S1,Odor eliminator,officesupply:Blue Drops Automatic Bowl Cleaner - Hygiene Supplies | unbranded
+I6-Restroom air freshener,Faith - 6. Restroom cleaners,Faith,Facilities management,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+I6-Shower and tile cleaner,Faith - 6. Restroom cleaners,Faith,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:bathroom cleaner
+I7-Streak-free glass cleaner for large window areas,Faith - 7. Glass and window cleaners,Faith,Facilities management,Catalogue 2024 S1,Glass cleaner,fine:glass cleaner;  gogreen:glass cleaner; officesupply:glass cleaner
+I8-Degreaser for food service areas,Faith - 8. Kitchen and food service cleaners,Faith,Facilities management,Catalogue 2024 S1,Degreaser,gogreen:Degrease and Multi-Purpose; officesupply:degreaser
+I8-Grill cleaner,Faith - 8. Kitchen and food service cleaners,Faith,Facilities management,Catalogue 2024 S1,Degreaser,officesupply:grill cleaner
+I8-Oven and appliance cleaner,Faith - 8. Kitchen and food service cleaners,Faith,Facilities management,Catalogue 2024 S1,Degreaser,gogreen: oven cleaner
+I8-Food-safe surface sanitizer,Faith - 8. Kitchen and food service cleaners,Faith,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Surface Cleaner and Disinfectant; officesupply:surface sanitizer
+I9-Air deodorizer,Faith - 9. Air care and odor control,Faith,Facilities management,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+I9-Sewage odor control spray,Faith - 9. Air care and odor control,Faith,Facilities management,Catalogue 2024 S1,Odor eliminator,
+I12-Epoxy cleaner for heavy-traffic parking lot area,Faith - 12. Outdoor maintenance supplies,Faith,Facilities management,Catalogue 2024 S1,Epoxy cleaner,
+I13-HVAC system cleaner,Faith - 13. Air quality and ventilation,Faith,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Air Conditioner and Coil Cleaner 
+I13-HVAC system deodorizer,Faith - 13. Air quality and ventilation,Faith,Facilities management,Catalogue 2024 S1,Odor eliminator,
+I14-Aerosol personal disinfectant,Faith - 14. Pilgrims hygiene solutions,Faith,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+I14-Other pilgrims hygiene solutions,Faith - 14. Pilgrims hygiene solutions,Faith,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+U1-On-site waterless curtain care cleaning,Curtain care - 1. On-site waterlesss curtain cleaning,Curtain care,Facilities management,Catalogue 2024 S1,Stain remover,
+"S1-Multi-surface cleaner for equipment, benches, and countertops",Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,General purpose cleaner,officesupply:general purpose cleaner
+S1-Wood furniture cleaner,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime 
+S1-Streak-free glass cleaner for mirrors and windows,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Glass cleaner,fine:glass cleaner;  gogreen:glass cleaner; officesupply:glass cleaner
+S1-Non-slip floor cleaner for gym floors and exercise areas,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+S1-Hard floor polish,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Floor polish,
+S1-Hardwood and laminate floor cleaner,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Floor cleaner,officesupply:wood floor cleaner
+S1-Marble floor cleaner,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Marble floor cleaner,
+S1-High performance carpet shampoo,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Carpet shampoo,gogreen:carpet shampoo
+S1-Stain spot remover,Sports - 1. General cleaning products,Gyms,Facilities management,Catalogue 2024 S1,Stain remover,gogreen:Dry Stain Remover
+S2-Toilet bowl and urinal cleaner,Sports - 2. Restroom and locker room cleaners,Gyms,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:toilet cleaner
+S2-Mildew and mold remover for wet areas,Sports - 2. Restroom and locker room cleaners,Gyms,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,
+S2-Antibacterial hand soap,Sports - 2. Restroom and locker room cleaners,Gyms,Facilities management,Catalogue 2024 S1,Hand soap,gogreen:Anti-bacterial Hand Soap; officesupply:hand soap
+S2-Shower and tile cleaner,Sports - 2. Restroom and locker room cleaners,Gyms,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:bathroom cleaner
+S2-Body wash gel,Sports - 2. Restroom and locker room cleaners,Gyms,Facilities management,Catalogue 2024 S1,Body wash,
+S3-Broad-spectrum disinfectant for surfaces,Sports - 3. Disinfectants and sanitizers,Gyms,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+S4-Stain remover for laundry,Sports - 4. Towel and laundry care,Gyms,Facilities management,Catalogue 2024 S1,Stain remover,gogreen:stain remover clothes
+S4-Sanitizing fabric refresher for towels and sports clothes,Sports - 4. Towel and laundry care,Gyms,Facilities management,Catalogue 2024 S1,Fabric refresher,officesupply:Air and Fabric Freshener
+S5-Disinfectant wipes and sprays for gym equipment,Sports - 5. Gym and equipment maintenance,Gyms,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+S5-Lubricant for maintaining machinery and weight systems,Sports - 5. Gym and equipment maintenance,Gyms,Facilities management,Catalogue 2024 S1,Surface lubricant and protectant,
+S5-Upholstery cleaner for padded equipment,Sports - 5. Gym and equipment maintenance,Gyms,Facilities management,Catalogue 2024 S1,Upholstery cleaner,
+S5-Disinfectant spray for yoga mats and exercise mats,Sports - 5. Gym and equipment maintenance,Gyms,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,
+S6-Air freshener,Sports - 6. Extreme odor control products,Gyms,Facilities management,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+S6-Extreme odor neutralizer,Sports - 6. Extreme odor control products,Gyms,Facilities management,Catalogue 2024 S1,Odor eliminator,
+S6-Sewage odor control spray,Sports - 6. Extreme odor control products,Gyms,Facilities management,Catalogue 2024 S1,Odor eliminator,
+S7-HVAC system cleaner,Sports - 7. Air quality and ventilation,Gyms,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Air Conditioner and Coil Cleaner 
+S7-HVAC system deodorizer,Sports - 7. Air quality and ventilation,Gyms,Facilities management,Catalogue 2024 S1,Odor eliminator,
+S10-Body refreshing wipe with deodorizing properties,Sports - 10. Athlete hygiene products,Gyms,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+S10-Odor neutralizer and disinfectant spray for shoes and equipment,Sports - 10. Athlete hygiene products,Gyms,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,
+T1-Vehicle wash shampoo,Land transportation - 1. Vehicle wash soaps and shampoos,Land transportation,Transportation,Catalogue 2024 S1,Vehicle wet wash shampoo,gogreen:Car shampoo
+T1-Waterless vehicle wash product,Land transportation - 1. Vehicle wash soaps and shampoos,Land transportation,Transportation,Catalogue 2024 S1,Vehicle dry wash exterior cleaner,
+T2-Wheel cleaner,Land transportation - 2. Wheel and tire cleaners,Land transportation,Transportation,Catalogue 2024 S1,Degreaser,
+T2-Wheel brightener,Land transportation - 2. Wheel and tire cleaners,Land transportation,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+T3-Vehicle glass cleaner,Land transportation - 3. Glass and windshield cleaners,Land transportation,Transportation,Catalogue 2024 S1,Glass cleaner,
+T4-Vehicle upholstery cleaner for fabric seats,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Upholstery cleaner,
+T4-Vehicle stain spot remover,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Stain remover,
+T4-Vehicle leather cleaner,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Leather and vinyl cleaner,
+T4-Vehicle leather conditioner,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Leather and vinyl conditioner,
+T4-Vehicle dashboard and plastic protectant,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+T4-Vehicle surface disinfectant,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+T4-Vehicle surface disinfectant wet rags,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Cleaning wet wipes,
+T4-Vehicle air freshener,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Air freshener,
+T4-Vehicle odor eliminator,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Odor eliminator,
+T4-Vehicle deodorizing fabric freshener for seats,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Fabric refresher,
+T4-HVAC system freshener,Land transportation - 4. Vehicle interior cleaners,Land transportation,Transportation,Catalogue 2024 S1,Air freshener,
+T5-Vehicle vinyl top cleaner,Land transportation - 5. Vehicle wax and detailing,Land transportation,Transportation,Catalogue 2024 S1,Leather and vinyl cleaner,
+T5-Vehicle water spot remover,Land transportation - 5. Vehicle wax and detailing,Land transportation,Transportation,Catalogue 2024 S1,Stain remover,
+T5-Vehicle bug remover,Land transportation - 5. Vehicle wax and detailing,Land transportation,Transportation,Catalogue 2024 S1,Bug remover,
+T6-Heavy-duty non-slip floor cleaner,Land transportation - 6. Vehicle floor cleaner,Land transportation,Transportation,Catalogue 2024 S1,Floor cleaner,fine:Floor cleaner
+T6-Vehicle floor polish for hard floor,Land transportation - 6. Vehicle floor cleaner,Land transportation,Transportation,Catalogue 2024 S1,Floor cleaner,
+T7-Heavy-duty toilet and urinal cleaner,Land transportation - 7. Restroom cleaner,Land transportation,Transportation,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+T7-Restroom odor urinal neutralizer,Land transportation - 7. Restroom cleaner,Land transportation,Transportation,Catalogue 2024 S1,Odor eliminator,
+T7-Restroom air freshener,Land transportation - 7. Restroom cleaner,Land transportation,Transportation,Catalogue 2024 S1,Air freshener,
+T9-Vehicle engine degreaser,Land transportation - 9. Engine and undercarriage cleaners,Land transportation,Transportation,Catalogue 2024 S1,Degreaser,
+T10-Food-safe surface cleaner and disinfectant,Land transportation - 10. Galley cleaning supplies,Land transportation,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Surface Cleaner and Disinfectant
+T10-Food-safe kitchen degreaser,Land transportation - 10. Galley cleaning supplies,Land transportation,Transportation,Catalogue 2024 S1,Degreaser,gogreen:Degrease and Multi-Purpose
+T10-Stainless steel polisher,Land transportation - 10. Galley cleaning supplies,Land transportation,Transportation,Catalogue 2024 S1,Stainless steel cleaner,gogreen:Box Metal and stainless-steel cleaner and polisher
+T11-Adhesive remover for vehicles,Land transportation - 11. Other transportation products or items,Land transportation,Transportation,Catalogue 2024 S1,Adhesive remover,
+T11-Brush for seating cleaning,Land transportation - 11. Other transportation products or items,Land transportation,Transportation,Catalogue 2024 S1,Brush,
+T11-White sponge for surface cleaning,Land transportation - 11. Other transportation products or items,Land transportation,Transportation,Catalogue 2024 S1,Sponge,
+"M1-Multi-surface cleaners for decks, cabins, and common areas",Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,General purpose cleaner,
+M1-Wood furniture cleaner,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Furniture polish,
+M1-Streak-free glass cleaners for windows and portholes,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Glass cleaner,
+M1-Non-slip floor cleaners for safety on wet surfaces,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Floor cleaner,
+M1-Hardwood and laminate floor cleaner,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Floor cleaner,
+M1-Carpet shampoo for cabins and lounges,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Carpet shampoo,
+M1-Stain spot remover,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Stain remover,
+M1-Upholstery cleaners for fabric surfaces,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Upholstery cleaner,
+M1-Leather and vinyl cleaners for seats and steering wheels,Maritime - 1. General boat cleaning products,Maritime,Transportation,Catalogue 2024 S1,Leather and vinyl cleaner,
+M2-Marine-grade disinfectant for thorough cleaning,Maritime - 2. Disinfectant and sanitizers,Maritime,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+M2-Marine-grade disinfectant and cleaning wipes,Maritime - 2. Disinfectant and sanitizers,Maritime,Transportation,Catalogue 2024 S1,Cleaning wet wipes,
+M3-Air freshener,Maritime - 3. Odor control products,Maritime,Transportation,Catalogue 2024 S1,Air freshener,
+M3-Extreme odor neutralizer,Maritime - 3. Odor control products,Maritime,Transportation,Catalogue 2024 S1,Odor eliminator,
+M3-Deodorizing fabric freshener for seats and cushions,Maritime - 3. Odor control products,Maritime,Transportation,Catalogue 2024 S1,Fabric refresher,
+M4-Heavy-duty toilet and urinal cleaner,Maritime - 4. Restroom cleaners,Maritime,Transportation,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+M4-Shower and tile cleaner,Maritime - 4. Restroom cleaners,Maritime,Transportation,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+M4-Mildew and mold remover for wet areas,Maritime - 4. Restroom cleaners,Maritime,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+M5-Food-grade sanitizers for countertops and prep areas,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+M5-Heavy-duty kitchen degreaser for grills and hoods,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Degreaser,
+M5-Oven and fryer cleaner,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Degreaser,
+M5-Grease trap odor treatment,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Odor eliminator,
+M5-Refrigerator and freezer deodorizer,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Odor eliminator,
+M5-Stainless steel polish for kitchen equipment and fixtures,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Stainless steel cleaner,
+M5-Metal polish for cookware and utensils,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Stainless steel cleaner,
+M5-Glass polish for display cases and windows,Maritime - 5. Galley and kitchen cleaners,Maritime,Transportation,Catalogue 2024 S1,Glass cleaner,
+M6-Marine-grade stain remover for laundry,Maritime - 6. Laundry products,Maritime,Transportation,Catalogue 2024 S1,Stain remover,
+M7-HVAC system cleaner,Maritime - 7. Air quality and ventilation,Maritime,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+M7-HVAC system deodorizer,Maritime - 7. Air quality and ventilation,Maritime,Transportation,Catalogue 2024 S1,Odor eliminator,
+"M9-Marine hull cleaner to remove algae, barnacles, and salt build-up",Maritime - 9. Hull and exterior cleaners,Maritime,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+M9-Teak and wood deck cleaner,Maritime - 9. Hull and exterior cleaners,Maritime,Transportation,Catalogue 2024 S1,Wood and laminate floor cleaner,
+M9-Deck cleaner for removing grime and stains,Maritime - 9. Hull and exterior cleaners,Maritime,Transportation,Catalogue 2024 S1,Wood and laminate floor cleaner,
+M9-Protective polish for hull and superstructure,Maritime - 9. Hull and exterior cleaners,Maritime,Transportation,Catalogue 2024 S1,Surface lubricant and protectant,
+M9-Metal polish for fixtures and fittings,Maritime - 9. Hull and exterior cleaners,Maritime,Transportation,Catalogue 2024 S1,Stainless steel cleaner,
+M9-Mildew and mold remover,Maritime - 9. Hull and exterior cleaners,Maritime,Transportation,Catalogue 2024 S1,Disinfectant and cleaner,
+M10-Marine-grade engine room degreaser,Maritime - 10. Engine room and bilge cleaners,Maritime,Transportation,Catalogue 2024 S1,Degreaser,
+"M10-Specialized bilge cleaners to remove oil, grease, and grime from bilge areas",Maritime - 10. Engine room and bilge cleaners,Maritime,Transportation,Catalogue 2024 S1,Degreaser,
+M12-White sponge for surface cleaning,Maritime - 12. Other maritime products or items,Maritime,Transportation,Catalogue 2024 S1,Sponge,
+L1-General purpose cleaner,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,General purpose cleaner,officesupply:general purpose cleaner
+L1-Wood furniture cleaner,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime 
+L1-General hard floor cleaner,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+L1-Hard floor polish,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Floor polish,
+L1-Marble floor cleaner,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Marble floor cleaner,
+L1-Hardwood and laminate floor cleaner,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Floor cleaner,officesupply:wood floor cleaner
+L1-Low-moisture waterless carpet cleaner,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Carpet shampoo,
+L1-High performance carpet shampoo,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Carpet shampoo,gogreen:carpet shampoo
+L1-Stain spot remover,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Stain remover,gogreen:stain remover
+L1-Streak-free glass cleaner for mirrors and windows,Spas - 1. Spa and salon general cleaning products,Spas and salons,Facilities management,Catalogue 2024 S1,Glass cleaner,fine:Glass cleaner; gogreen:glass cleaner; officesupply:glass cleaner
+L2-Broad-spectrum disinfectant for spas and salons equipment,Spas - 2. Disinfectants and sanitizers,Spas and salons,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+L2-Surface disinfectant wet rags for spas and salons equipment,Spas - 2. Disinfectants and sanitizers,Spas and salons,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+L3-Toilet bowl and urinal cleaner,Spas - 3. Restroom and spa tub cleaners,Spas and salons,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:toilet cleaner
+L3-Mildew and mold remover for wet areas,Spas - 3. Restroom and spa tub cleaners,Spas and salons,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,
+L3-Antibacterial hand soap,Spas - 3. Restroom and spa tub cleaners,Spas and salons,Facilities management,Catalogue 2024 S1,Hand soap,fine:Liquid Soap Fine Solutions; gogreen:hand soap; officesupply:hand soap
+L3-Shower and tile cleaner,Spas - 3. Restroom and spa tub cleaners,Spas and salons,Facilities management,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply: bathroom cleaner
+L4-Air freshener,Spas - 4. Odor control products,Spas and salons,Facilities management,Catalogue 2024 S1,Air freshener,officesupply: air freshener
+L4-Extreme odor neutralizer,Spas - 4. Odor control products,Spas and salons,Facilities management,Catalogue 2024 S1,Odor eliminator,
+L4-Sewage odor control spray,Spas - 4. Odor control products,Spas and salons,Facilities management,Catalogue 2024 S1,Odor eliminator,
+L5-HVAC system cleaner,Spas - 5. Air quality and ventilation,Spas and salons,Facilities management,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Air Conditioner and Coil Cleaner 
+L5-HVAC system deodorizer,Spas - 5. Air quality and ventilation,Spas and salons,Facilities management,Catalogue 2024 S1,Odor eliminator,
+L6-Stain remover for laundry,Spas - 6. Towel and laundry care,Spas and salons,Facilities management,Catalogue 2024 S1,Stain remover,gogreen:stain remover
+L6-Sanitizing fabric refresher for towels,Spas - 6. Towel and laundry care,Spas and salons,Facilities management,Catalogue 2024 S1,Fabric refresher,officesupply:Air and Fabric Freshener
+L8-Body refreshing wipe with deodorizing properties,Spas - 8. Personal care odor control,Spas and salons,Facilities management,Catalogue 2024 S1,Cleaning wet wipes,
+L9-White sponge for surface cleaning,Spas - 9. Other spas and salons products or items,Spas and salons,Facilities management,Catalogue 2024 S1,Sponge,
+E1-General purpose cleaner,Hotels - 1. General purpose cleaners,Hotels,Horeca,Catalogue 2024 S1,General purpose cleaner,officesupply:general purpose cleaner
+E1-Wood furniture cleaner,Hotels - 1. General purpose cleaners,Hotels,Horeca,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime 
+E1-Leather cleaner,Hotels - 1. General purpose cleaners,Hotels,Horeca,Catalogue 2024 S1,Leather and vinyl cleaner,officesupply:leather cleaner
+E2-General hard floor cleaner,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+E2-Hard floor polish,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Floor polish,
+E2-High performance waterless carpet cleaner,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Stain remover,
+E2-High performance carpet shampoo,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Carpet shampoo,gogreen:carpet shampoo
+E2-Stain spot remover,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Stain remover,gogreen:Dry Stain Remover
+E2-Marble floor cleaner,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Marble floor cleaner,
+E2-Hardwood and laminate floor cleaner,Hotels - 2. Floor care products,Hotels,Horeca,Catalogue 2024 S1,Floor cleaner,officesupply:wood floor cleaner
+"E3-Broad-spectrum disinfectant for surfaces, mattress and touchpoints",Hotels - 3. Disinfectants and sanitizers,Hotels,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+E3-Surface disinfectant wet rags,Hotels - 3. Disinfectants and sanitizers,Hotels,Horeca,Catalogue 2024 S1,Cleaning wet wipes,
+E4-Heavy-duty toilet and urinal cleaner,Hotels - 4. Restroom maintenance products,Hotels,Horeca,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:toilet cleaner
+E4-Restroom deodorizer,Hotels - 4. Restroom maintenance products,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,officesupply:Blue Drops Automatic Bowl Cleaner - Hygiene Supplies | unbranded
+E4-Restroom air freshener,Hotels - 4. Restroom maintenance products,Hotels,Horeca,Catalogue 2024 S1,Air freshener,officesupply:air refresher
+E4-Shower and tile cleaner,Hotels - 4. Restroom maintenance products,Hotels,Horeca,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:bathroom cleaner
+E4-Sewage odor control spray,Hotels - 4. Restroom maintenance products,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,
+E5-Streak-free glass cleaner for large window areas,Hotels - 5. Glass and window cleaners,Hotels,Horeca,Catalogue 2024 S1,Glass cleaner,fine:Glass cleaner; gogreen:glass cleaner; officesupply:glass cleaner
+E6-Degreaser for food service areas,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Degreaser,gogreen:Degrease and Multi-Purpose; officesupply:degreaser
+E6-Grill cleaner,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Degreaser,officesupply:grill cleaner
+E6-Oven and appliance cleaner,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Degreaser,gogreen:Oven kitchen Cleaner
+E6-Food-safe surface sanitizers,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Surface Cleaner and Disinfectant; officesupply:surface sanitizer
+E6-Non-slip floor cleaner for safety,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Floor cleaner,gogreen:floor cleaner; officesupply:floor cleaner
+E6-Floor degreaser for kitchen areas,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Floor cleaner,
+E6-Grease trap odor treatment,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,
+E6-Refrigerator and freezer deodorizer,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,
+E6-Stainless steel polish for equipment and fixtures,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Stainless steel cleaner,gogreen:Box Metal and stainless-steel cleaner and polisher;officesupply:stainless steel cleaner
+E6-Metal polish for cookware and utensils,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Stainless steel cleaner,gogreen:Box Metal and stainless-steel cleaner and polisher
+E6-Glass polish for display cases and windows,Hotels - 6. Kitchen and food service cleaners,Hotels,Horeca,Catalogue 2024 S1,Glass cleaner,fine:Glass cleaner; gogreen:glass cleaner; officesupply:glass cleaner
+E7-Air freshener,Hotels - 7. Air care and odor control,Hotels,Horeca,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+E7-Air deodorizer,Hotels - 7. Air care and odor control,Hotels,Horeca,Catalogue 2024 S1,Air freshener,
+E7-Odor eliminator,Hotels - 7. Air care and odor control,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,
+E8-Stainless steel polish and cleaner for fixtures and fittings,Hotels - 8. Metal and escalator cleaners,Hotels,Horeca,Catalogue 2024 S1,Stainless steel cleaner,gogreen:Box Metal and stainless-steel cleaner and polisher
+E8-Escalator cleaner,Hotels - 8. Metal and escalator cleaners,Hotels,Horeca,Catalogue 2024 S1,General purpose cleaner,
+E8-Escalator tread brightener,Hotels - 8. Metal and escalator cleaners,Hotels,Horeca,Catalogue 2024 S1,Surface lubricant and protectant,
+E9-Epoxy cleaner for heavy-traffic parking lot area,Hotels - 9. Outdoor maintenance supplies,Hotels,Horeca,Catalogue 2024 S1,Epoxy cleaner,
+E10-HVAC system cleaner,Hotels - 10. Air quality and ventilation,Hotels,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Air Conditioner and Coil Cleaner 
+E10-HVAC system deodorizer,Hotels - 10. Air quality and ventilation,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,
+E11-Stain remover for laundry,Hotels - 11. Laundry products,Hotels,Horeca,Catalogue 2024 S1,Stain remover,gogreen:stain remover
+"E11-Fabric refresher for linen, towels, curtains, mattresses and upholstery",Hotels - 11. Laundry products,Hotels,Horeca,Catalogue 2024 S1,Fabric refresher,officesupply:Air and Fabric Freshener
+E13-Broad-spectrum disinfectant for spas and salons equipment,Hotels - 13. Spas and salons,Hotels,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+E14-Non-slip floor cleaner for gym floors and exercise areas,Hotels - 14. Gym maintenance products,Hotels,Horeca,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+E14-Lubricant for maintaining machinery and weight systems,Hotels - 14. Gym maintenance products,Hotels,Horeca,Catalogue 2024 S1,Surface lubricant and protectant,
+"E14-Disinfectant spray for gym equipment, yoga mats and exercise mats",Hotels - 14. Gym maintenance products,Hotels,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Surface Cleaner and Disinfectant
+E14-Extreme odor neutralizer,Hotels - 14. Gym maintenance products,Hotels,Horeca,Catalogue 2024 S1,Odor eliminator,
+E14-Body refreshing wipe with deodorizing properties,Hotels - 14. Gym maintenance products,Hotels,Horeca,Catalogue 2024 S1,Cleaning wet wipes,
+E14-Odor neutralizer and disinfectant spray for shoes and equipment,Hotels - 14. Gym maintenance products,Hotels,Horeca,Catalogue 2024 S1,Disinfectant and cleaner,
+E15-White sponge for surface cleaning,Hotels - 15. Other Hotels products or items,Hotels,Horeca,Catalogue 2024 S1,Sponge,
+O1-General purpose cleaner,Healthcare - 1. General purpose cleaners,Healthcare,Healthcare,Catalogue 2024 S1,General purpose cleaner,
+O1-Wood furniture cleaner,Healthcare - 1. General purpose cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime 
+O2-General hard floor cleaner,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner
+O2-Hard floor polish,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Floor polish,
+O2-High performance waterless carpet cleaner,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Stain remover,
+O2-High performance carpet shampoo,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Carpet shampoo,
+O2-Stain spot remover,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Stain remover,
+O2-Marble floor cleaner,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Marble floor cleaner,
+O2-Hardwood and laminate floor cleaner,Healthcare - 2. Floor care products,Healthcare,Healthcare,Catalogue 2024 S1,Floor cleaner,
+"O3-Broad-spectrum disinfectant for surfaces, mattress and touchpoints",Healthcare - 3. Medical equipment disinfectants and sanitizers,Healthcare,Healthcare,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant
+O3-Surface disinfectant wet rags,Healthcare - 3. Medical equipment disinfectants and sanitizers,Healthcare,Healthcare,Catalogue 2024 S1,Cleaning wet wipes,
+O4-Heavy-duty toilet and urinal cleaner,Healthcare - 4. Restroom maintenance products,Healthcare,Healthcare,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+O4-Restroom deodorizer,Healthcare - 4. Restroom maintenance products,Healthcare,Healthcare,Catalogue 2024 S1,Odor eliminator,
+O4-Restroom air freshener,Healthcare - 4. Restroom maintenance products,Healthcare,Healthcare,Catalogue 2024 S1,Air freshener,
+O4-Shower and tile cleaner,Healthcare - 4. Restroom maintenance products,Healthcare,Healthcare,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+O4-Sewage odor control spray,Healthcare - 4. Restroom maintenance products,Healthcare,Healthcare,Catalogue 2024 S1,Odor eliminator,
+O5-Streak-free glass cleaner for large window areas,Healthcare - 5. Glass and window cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Glass cleaner,fine:Glass cleaner
+O6-Degreaser for food service areas,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Degreaser,
+O6-Grill cleaner,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Degreaser,
+O6-Oven and appliance cleaner,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Degreaser,
+O6-Food-safe surface sanitizers,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Disinfectant and cleaner,
+O6-Non-slip floor cleaner for safety,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Floor cleaner,fine:Floor cleaner
+O6-Floor degreaser for kitchen areas,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Floor cleaner,
+O6-Grease trap odor treatment,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Odor eliminator,
+O6-Refrigerator and freezer deodorizer,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Odor eliminator,
+O6-Stainless steel polish for equipment and fixtures,Healthcare - 6. Kitchen and food service cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Stainless steel cleaner,
+O7-Air freshener,Healthcare - 7. Air care and odor control,Healthcare,Healthcare,Catalogue 2024 S1,Air freshener,
+O7-Air deodorizer,Healthcare - 7. Air care and odor control,Healthcare,Healthcare,Catalogue 2024 S1,Air freshener,
+O7-Odor eliminator,Healthcare - 7. Air care and odor control,Healthcare,Healthcare,Catalogue 2024 S1,Odor eliminator,
+O8-Stainless steel polish and cleaner for fixtures and fittings,Healthcare - 8. Metal and escalator cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Stainless steel cleaner,
+O8-Escalator cleaner,Healthcare - 8. Metal and escalator cleaners,Healthcare,Healthcare,Catalogue 2024 S1,General purpose cleaner,
+O8-Escalator tread brightener,Healthcare - 8. Metal and escalator cleaners,Healthcare,Healthcare,Catalogue 2024 S1,Surface lubricant and protectant,
+O9-Epoxy cleaner for heavy-traffic parking lot area,Healthcare - 9. Outdoor maintenance supplies,Healthcare,Healthcare,Catalogue 2024 S1,Epoxy cleaner,
+O10-HVAC system cleaner,Healthcare - 10. Air quality and ventilation,Healthcare,Healthcare,Catalogue 2024 S1,Disinfectant and cleaner,
+O10-HVAC system deodorizer,Healthcare - 10. Air quality and ventilation,Healthcare,Healthcare,Catalogue 2024 S1,Odor eliminator,
+O11-Stain remover for laundry,Healthcare - 11. Laundry products,Healthcare,Healthcare,Catalogue 2024 S1,Stain remover,
+"O11-Fabric refresher for linen, towels, curtains, mattresses and upholstery",Healthcare - 11. Laundry products,Healthcare,Healthcare,Catalogue 2024 S1,Fabric refresher,
+O13-White sponge for surface cleaning,Healthcare - 13. Other Healthcare products or items,Healthcare,Healthcare,Catalogue 2024 S1,Sponge,
+D1-Leather cleaner,Defense - 1. Aircraft interior cleaners,Defense,Industrial,Catalogue 2024 S1,Leather and vinyl cleaner,
+D1-Leather conditioner,Defense - 1. Aircraft interior cleaners,Defense,Industrial,Catalogue 2024 S1,Leather and vinyl conditioner,
+D1-Wet wipes for various cleaning purposes,Defense - 1. Aircraft interior cleaners,Defense,Industrial,Catalogue 2024 S1,Cleaning wet wipes,
+D2-Broad-spectrum disinfectant for surfaces,Defense - 2. Aircraft disinfectants and sanitizers,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D3-Streak-free window cleaner,Defense - 3. Aicraft glass and mirror cleaners,Defense,Industrial,Catalogue 2024 S1,Glass cleaner,
+D3-Cockpit glass cleaner,Defense - 3. Aicraft glass and mirror cleaners,Defense,Industrial,Catalogue 2024 S1,Glass cleaner,
+D3-Mirror and plexiglass cleaner,Defense - 3. Aicraft glass and mirror cleaners,Defense,Industrial,Catalogue 2024 S1,Glass cleaner,
+D4-Lavatory disinfectant,Defense - 4. Aicraft restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D4-Toilet and urinal cleaner,Defense - 4. Aicraft restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+D4-Odor urinal neutralizer,Defense - 4. Aicraft restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,Odor eliminator,
+D4-Aircraft air freshener,Defense - 4. Aicraft restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,Air freshener,
+D5-Food-safe surface cleaner,Defense - 5. Aicraft galley cleaning supplies,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D5-Stainless steel polisher,Defense - 5. Aicraft galley cleaning supplies,Defense,Industrial,Catalogue 2024 S1,Stainless steel cleaner,
+D6-Non-slip floor cleaner,Defense - 6. Aircraft floor care products,Defense,Industrial,Catalogue 2024 S1,Floor cleaner,
+D6-Heavy-duty floor degreaser ,Defense - 6. Aircraft floor care products,Defense,Industrial,Catalogue 2024 S1,Floor cleaner,
+D6-Aircraft carpet shampoo,Defense - 6. Aircraft floor care products,Defense,Industrial,Catalogue 2024 S1,Carpet shampoo,
+D6-Aircraft carpet spot remover,Defense - 6. Aircraft floor care products,Defense,Industrial,Catalogue 2024 S1,Carpet shampoo,
+D7-Aicraft wet wash shampoo,Defense - 7. Exterior aircraft cleaners,Defense,Industrial,Catalogue 2024 S1,Vehicle wet wash shampoo,
+D7-Aircraft dry wash exterior cleaner,Defense - 7. Exterior aircraft cleaners,Defense,Industrial,Catalogue 2024 S1,Vehicle dry wash exterior cleaner,
+D7-Insect and soil remover,Defense - 7. Exterior aircraft cleaners,Defense,Industrial,Catalogue 2024 S1,Bug remover,
+D12-Evacuation slide cleaner,Defense - 12. Aircraft safety and emergency equipment cleaners,Defense,Industrial,Catalogue 2024 S1,General purpose cleaner,
+D12-Evacuation slide lubricant,Defense - 12. Aircraft safety and emergency equipment cleaners,Defense,Industrial,Catalogue 2024 S1,Surface lubricant and protectant,
+D12-Life vest cleaner,Defense - 12. Aircraft safety and emergency equipment cleaners,Defense,Industrial,Catalogue 2024 S1,General purpose cleaner,
+D12-Life vest protectant,Defense - 12. Aircraft safety and emergency equipment cleaners,Defense,Industrial,Catalogue 2024 S1,Surface lubricant and protectant,
+D15-Potable water tank cleaner,Defense - 15. Aircraft potable water and fuel tank cleaners,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D15-Fuel tank cleaner,Defense - 15. Aircraft potable water and fuel tank cleaners,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D17-Portable fabric refresher for crew and passengers,Defense - 17. Aircraft employee and passenger personal care products,Defense,Industrial,Catalogue 2024 S1,Fabric refresher,
+D17-Hand cleaner and degreaser for maintenance,Defense - 17. Aircraft employee and passenger personal care products,Defense,Industrial,Catalogue 2024 S1,Degreaser,
+D18-Brush for seating cleaning,Defense - 18. Other aircraft defense products or items,Defense,Industrial,Catalogue 2024 S1,Brush,
+"D19-Multi-surface cleaners for decks, cabins, and common areas",Defense - 19. General maritime cleaning products,Defense,Industrial,Catalogue 2024 S1,General purpose cleaner,
+D19-Streak-free glass cleaners for windows and portholes,Defense - 19. General maritime cleaning products,Defense,Industrial,Catalogue 2024 S1,Glass cleaner,
+D19-Non-slip floor cleaners for safety on wet surfaces,Defense - 19. General maritime cleaning products,Defense,Industrial,Catalogue 2024 S1,Floor cleaner,
+D19-Carpet shampoo for cabins and lounges,Defense - 19. General maritime cleaning products,Defense,Industrial,Catalogue 2024 S1,Carpet shampoo,
+D19-Leather and vinyl cleaners for seats and steering wheels,Defense - 19. General maritime cleaning products,Defense,Industrial,Catalogue 2024 S1,Leather and vinyl cleaner,
+"D21-Marine hull cleaner to remove algae, barnacles, and salt build-up",Defense - 21. Maritime hull and exterior cleaners,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D21-Teak and wood deck cleaner,Defense - 21. Maritime hull and exterior cleaners,Defense,Industrial,Catalogue 2024 S1,Wood and laminate floor cleaner,
+D21-Deck cleaner for removing grime and stains,Defense - 21. Maritime hull and exterior cleaners,Defense,Industrial,Catalogue 2024 S1,Wood and laminate floor cleaner,
+D21-Protective polish for hull and superstructure,Defense - 21. Maritime hull and exterior cleaners,Defense,Industrial,Catalogue 2024 S1,Surface lubricant and protectant,
+D21-Metal polish for fixtures and fittings,Defense - 21. Maritime hull and exterior cleaners,Defense,Industrial,Catalogue 2024 S1,Stainless steel cleaner,
+D21-Mildew and mold remover,Defense - 21. Maritime hull and exterior cleaners,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D22-Marine-grade engine room degreaser,Defense - 22. Maritime engine room and bilge cleaners,Defense,Industrial,Catalogue 2024 S1,Degreaser,
+"D22-Specialized bilge cleaners to remove oil, grease, and grime from bilge areas",Defense - 22. Maritime engine room and bilge cleaners,Defense,Industrial,Catalogue 2024 S1,Degreaser,
+D23-General purpose cleaner,Defense - 23. General purpose cleaners,Defense,Industrial,Catalogue 2024 S1,General purpose cleaner,
+D23-Wood furniture cleaner,Defense - 23. General purpose cleaners,Defense,Industrial,Catalogue 2024 S1,Furniture polish,
+D24-General hard floor cleaner,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Floor cleaner,
+D24-Hard floor polish,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Floor polish,
+D24-High performance waterless carpet cleaner,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Stain remover,
+D24-High performance carpet shampoo,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Carpet shampoo,
+D24-Stain spot remover,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Stain remover,
+D24-Marble floor cleaner,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Marble floor cleaner,
+D24-Hardwood and laminate floor cleaner,Defense - 24. Floor care products,Defense,Industrial,Catalogue 2024 S1,Floor cleaner,
+D25-Broad-spectrum disinfectant for surfaces and touchpoints,Defense - 25. Disinfectants and sanitizers,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D25-Surface sanitizing wipes,Defense - 25. Disinfectants and sanitizers,Defense,Industrial,Catalogue 2024 S1,Cleaning wet wipes,
+D26-Heavy-duty toilet and urinal cleaner,Defense - 26. Restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+D26-Restroom deodorizer,Defense - 26. Restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,Odor eliminator,
+D26-Restroom air freshener,Defense - 26. Restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,Air freshener,
+D26-Shower and tile cleaner,Defense - 26. Restroom maintenance products,Defense,Industrial,Catalogue 2024 S1,"Toilet, shower and tile cleaner",
+D27-Streak-free glass cleaner for large window areas,Defense - 27. Glass and window cleaners,Defense,Industrial,Catalogue 2024 S1,Glass cleaner,
+D28-Degreaser for food service areas,Defense - 28. Kitchen and food service cleaners,Defense,Industrial,Catalogue 2024 S1,Degreaser,
+D28-Grill cleaner,Defense - 28. Kitchen and food service cleaners,Defense,Industrial,Catalogue 2024 S1,Degreaser,
+D28-Oven and appliance cleaner,Defense - 28. Kitchen and food service cleaners,Defense,Industrial,Catalogue 2024 S1,Degreaser,
+D28-Food-safe surface sanitizers,Defense - 28. Kitchen and food service cleaners,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D29-Air freshener,Defense - 29. Air care and odor control,Defense,Industrial,Catalogue 2024 S1,Air freshener,
+D29-Odor eliminator,Defense - 29. Air care and odor control,Defense,Industrial,Catalogue 2024 S1,Odor eliminator,
+D30-Stainless steel polish and cleaner for fixtures and fittings,Defense - 30. Metal and escalator cleaners,Defense,Industrial,Catalogue 2024 S1,Stainless steel cleaner,
+D30-Escalator cleaner,Defense - 30. Metal and escalator cleaners,Defense,Industrial,Catalogue 2024 S1,General purpose cleaner,
+D30-Escalator tread brightener,Defense - 30. Metal and escalator cleaners,Defense,Industrial,Catalogue 2024 S1,Surface lubricant and protectant,
+D31-Epoxy cleaner for heavy-traffic parking lot area,Defense - 31. Outdoor maintenance supplies,Defense,Industrial,Catalogue 2024 S1,Epoxy cleaner,
+D32-HVAC system cleaner,Defense - 32. Air quality and ventilation,Defense,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,
+D32-HVAC system deodorizer,Defense - 32. Air quality and ventilation,Defense,Industrial,Catalogue 2024 S1,Odor eliminator,
+D33-Fabric refresher,Defense - 33. Laundry products,Defense,Industrial,Catalogue 2024 S1,Fabric refresher,
+D34-Body refreshing wipe with deodorizing properties,Defense - 34. Other defense products or items,Defense,Industrial,Catalogue 2024 S1,Cleaning wet wipes,
+D34-White sponge for cleaning ,Defense - 34. Other defense products or items,Defense,Industrial,Catalogue 2024 S1,Sponge,
+"U1-Heavy-duty multi-surface cleaner machinery, workbenches, and industrial equipment",Industrial Facilities - 1. General cleaning products,Industrial facilities,Industrial,Catalogue 2024 S1,General purpose cleaner,officesupply:general purpose cleaner
+U1-Wood furniture cleaner,Industrial Facilities - 1. General cleaning products,Industrial facilities,Industrial,Catalogue 2024 S1,Furniture polish,fine:Chemicals House Keeping Wax Furniture Polish Fine Solution Prime 
+U2-General hard floor cleaner,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Floor cleaner,fine:Floor Cleaner; gogreen:floor cleaner; officesupply:floor cleaner
+U2-Hard floor polish,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Floor polish,
+U2-Marble floor cleaner,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Marble floor cleaner,
+U2-Hardwood and laminate floor cleaner,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Floor cleaner,officesupply:wood floor cleaner
+U2-High performance waterless carpet cleaner,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Carpet shampoo,
+U2-High performance carpet shampoo,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Carpet shampoo,gogreen: carpet shampoo
+U2-Stain spot remover,Industrial Facilities - 2. Floor care products,Industrial facilities,Industrial,Catalogue 2024 S1,Stain remover,gogreen:Dry Stain Remover
+U3-Streak-free glass cleaner for large window areas,Industrial Facilities - 3. Glass and window cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Glass cleaner,fine:Glass cleaner; gogreen:glass cleaner; officesupply:glass cleaner
+U4-Broad-spectrum disinfectants for sanitizing work areas and break rooms ,Industrial Facilities - 4. Disinfectants and sanitizers,Industrial facilities,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,fine:Disinfectant; gogreen:disinfectant; officesupply:disinfectant
+U4-Surface disinfectant wet rags,Industrial Facilities - 4. Disinfectants and sanitizers,Industrial facilities,Industrial,Catalogue 2024 S1,Cleaning wet wipes,
+U5-Toilet and urinal cleaner,Industrial Facilities - 5. Restroom maintenance products,Industrial facilities,Industrial,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:toilet cleaner
+U5-Restroom deodorizer,Industrial Facilities - 5. Restroom maintenance products,Industrial facilities,Industrial,Catalogue 2024 S1,Odor eliminator,officesupply:Blue Drops Automatic Bowl Cleaner - Hygiene Supplies | unbranded
+U5-Restroom air freshener,Industrial Facilities - 5. Restroom maintenance products,Industrial facilities,Industrial,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+U5-Shower and tile cleaner,Industrial Facilities - 5. Restroom maintenance products,Industrial facilities,Industrial,Catalogue 2024 S1,"Toilet, shower and tile cleaner",officesupply:bathroom cleaner
+U6-Heavy-duty degreaser for machinery and equipment,Industrial Facilities - 6. Machinery and equipment maintenance products,Industrial facilities,Industrial,Catalogue 2024 S1,Degreaser,gogreen:Degrease and Multi-Purpose
+U6-Stainless steel polish,Industrial Facilities - 6. Machinery and equipment maintenance products,Industrial facilities,Industrial,Catalogue 2024 S1,Stainless steel cleaner,gogreen:Box Metal and stainless-steel cleaner and polisher; officesupply:stainless steel cleaner
+U7-Rubber mats and non-slip floor cleaner,Industrial Facilities - 7. Heavy-duty mat and floor cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Floor cleaner,
+U7-Heavy-duty floor degreasers,Industrial Facilities - 7. Heavy-duty mat and floor cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Floor cleaner,
+U8-Degreaser for food service areas,Industrial Facilities - 8. Kitchen and food service cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Degreaser,gogreen:Degrease and Multi-Purpose; officesupply:degreaser
+U8-Food-safe surface sanitizers,Industrial Facilities - 8. Kitchen and food service cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Surface Cleaner and Disinfectant; officesupply:surface sanitizer
+U8-Grill cleaner,Industrial Facilities - 8. Kitchen and food service cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Degreaser,officesupply:grill cleaner
+U8-Oven and appliance cleaner,Industrial Facilities - 8. Kitchen and food service cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Degreaser,gogreen:Oven kitchen Cleaner
+U8-Kitchen odor eliminator,Industrial Facilities - 8. Kitchen and food service cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Odor eliminator,
+U10-Air freshener,Industrial Facilities - 10. Odor control products,Industrial facilities,Industrial,Catalogue 2024 S1,Air freshener,officesupply:air freshener
+U10-Odor neutralizer,Industrial Facilities - 10. Odor control products,Industrial facilities,Industrial,Catalogue 2024 S1,Odor eliminator,
+U12-Escalator cleaner,Industrial Facilities - 12. Metal and escalator cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,General purpose cleaner,
+U12-Escalator tread brightener,Industrial Facilities - 12. Metal and escalator cleaners,Industrial facilities,Industrial,Catalogue 2024 S1,Surface lubricant and protectant,
+U13-Epoxy cleaner for heavy-traffic parking lot area,Industrial Facilities - 13. Outdoor maintenance supplies,Industrial facilities,Industrial,Catalogue 2024 S1,Epoxy cleaner,
+U14-HVAC system cleaner,Industrial Facilities - 14. Air quality and ventilation,Industrial facilities,Industrial,Catalogue 2024 S1,Disinfectant and cleaner,gogreen:Air Conditioner and Coil Cleaner 
+U14-HVAC system deodorizer,Industrial Facilities - 14. Air quality and ventilation,Industrial facilities,Industrial,Catalogue 2024 S1,Odor eliminator,
+U16-Fabric refresher,Industrial Facilities - 16. Laundry products,Industrial facilities,Industrial,Catalogue 2024 S1,Fabric refresher,officesupply:Air and Fabric Freshener
+U17-White sponge for surface cleaning,Industrial Facilities - 17. Other industrial facilities products or items,Industrial facilities,Industrial,Catalogue 2024 S1,Sponge,

@@ -1,0 +1,2105 @@
+type_of_product,generic_product_type,sub_industry,industry,price_per_unit_sar,total_quantity,unit_of_measurement_mlgunits,channel
+A1-Cabin surface cleaner,General purpose cleaner,Aviation,Transportation,16.0,500.0,mL,B2B
+A11-Aircraft corrosion inhitor compound removal solvent,Corrosion inhitor compound remover,Aviation,Transportation,13125.0,200000.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,121.0,1000.0,mL,E-commerce
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,45.0,1000.0,mL,Retail
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,55.75,3790.0,mL,Retail
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,65.75,3790.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,68.0,2950.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,66.0,2000.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,60.0,1890.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,80.0,1890.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,55.0,1890.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,55.0,1890.0,mL,Retail
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,55.0,1890.0,mL,Retail
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,80.0,1900.0,mL,Retail
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,40.0,1890.0,mL,Retail
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,79.0,473.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,60.0,443.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,92.0,1000.0,mL,Retail
+C2-Tire foam,Degreaser,Automotive,Transportation,25.0,650.0,mL,Retail
+C2-Tire foam,Degreaser,Automotive,Transportation,58.0,280.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,32.0,500.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,40.0,500.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,146.0,680.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,49.0,623.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,60.0,453.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,65.0,1000.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,71.0,566.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,68.0,1000.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,43.0,680.0,mL,Retail
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,25.0,500.0,mL,Retail
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,55.0,709.0,mL,Retail
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,40.0,680.0,mL,E-commerce
+C2-Tire foam,Degreaser,Automotive,Transportation,55.0,560.0,mL,Retail
+C2-Tire foam,Degreaser,Automotive,Transportation,37.0,467.0,mL,Retail
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,20.0,500.0,mL,Retail
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,55.0,500.0,mL,Retail
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,60.0,680.0,mL,Retail
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,50.0,500.0,mL,Retail
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,57.0,709.0,mL,Retail
+C2-Brake dust remover,Degreaser,Automotive,Transportation,39.0,396.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,118.0,410.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,17.0,425.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,16.0,330.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,99.0,396.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,108.0,538.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,22.0,396.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,44.0,396.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,30.0,300.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,28.0,100.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,25.0,141.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,129.0,175.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,40.0,539.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,105.0,260.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,249.0,400.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,67.0,473.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,33.0,283.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,87.0,297.0,mL,E-commerce
+C3-Anti-fog spray for car glass,Anti-fog formula,Automotive,Transportation,193.0,60.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,31.25,4000.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,25.0,400.0,mL,Retail
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,50.0,370.0,mL,Retail
+C4-Car air freshener,Air freshener,Automotive,Transportation,25.0,506.0,mL,Retail
+C4-Car air freshener,Air freshener,Automotive,Transportation,25.0,473.0,mL,Retail
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,65.0,244.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,90.0,295.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,190.0,50.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,18.0,30.0,Units ,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,217.0,15.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,63.0,500.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,38.0,50.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,116.0,400.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,10.0,200.0,mL,Retail
+C4-Car surface disinfectant wet rags,Cleaning wet wipes,Automotive,Transportation,50.0,267.0,mL,Retail
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,28.0,370.0,,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,30.0,30.0,Units ,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,77.0,473.0,mL,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,87.0,500.0,mL,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,177.0,200.0,mL,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,71.22,20.0,mL,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,23.0,200.0,mL,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,70.0,236.0,mL,E-commerce
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,40.0,539.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,60.0,473.0,mL,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,25.0,300.0,mL,Retail
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,42.0,650.0,mL,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,60.0,473.0,mL,Retail
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,72.0,236.0,,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,126.0,472.0,,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,126.0,236.0,,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,114.0,500.0,,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,52.0,500.0,,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,59.0,650.0,,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,38.0,200.0,,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,104.0,400.0,,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,80.0,59.0,mL,Retail
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,59.75,560.0,mL,Retail
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,30.0,30.0,mL,Retail
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,60.0,425.0,mL,Retail
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,52.0,473.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,60.0,473.0,mL,Retail
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,60.0,340.0,mL,Retail
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,174.0,437.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,46.0,300.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,25.0,650.0,mL,Retail
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,124.88,62000.0,mL,B2B
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,55.88,5000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,1320.0,300000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,3.0,500.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,41.63,1800.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,23.63,3000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,64.5,1000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,1430.0,200000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,788.15,100000.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,650.0,100000.0,mL,B2B
+H10-Liquid dish soap,Dishwashing soap,Home,Households,13.0,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,16.0,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,21.0,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,21.0,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,24.0,1250.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,16.0,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,16.0,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,17.0,800.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,63.0,650.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,700.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,5.75,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,6.75,400.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,22.0,1500.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,10.0,600.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,9.0,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,12.0,670.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,50.0,250.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,138.0,1000.0,mL ,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,64.0,300.0,mL ,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,24.0,200.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,23.0,300.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,13.0,300.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,22.0,300.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,700.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,700.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,1000.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,750.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,750.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,1000.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,1000.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,750.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,400.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,300.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,400.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,260.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,450.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,450.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,150.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,175.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,5.75,150.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,12.0,125.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,12.0,125.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,20.0,500.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,11.0,460.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,6.0,300.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,10.0,300.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,42.38,250.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,25.13,250.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,13.13,300.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,13.13,300.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,21.38,300.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,50.0,250.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,20.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,18.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,19.0,300.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,12.0,250.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,18.0,200.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,39.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,27.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,16.0,250.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,15.0,250.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,12.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,300.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,300.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,1000.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,5.75,175.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,21.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,12.0,250.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,20.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,10.0,200.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,12.0,200.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,9.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,10.0,250.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,15.0,500.0,mL,Retail
+H12-Hand soap,Hand soap,Home,Households,14.0,500.0,mL,Retail
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,115.0,200.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,50.0,60.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,53.0,150.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,45.0,150.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,71.0,177.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,215.0,473.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,118.0,235.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,101.0,473.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,107.0,236.0,mL,E-commerce
+H13-Makeup brush cleanser,General purpose cleaner,Home,Households,30.0,59.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,28.0,500.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,75.0,750.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,57.5,750.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,82.0,946.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,220.0,4000.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,14.95,3000.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,28.49,1000.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,18.5,1000.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,129.75,3000.78,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,131.27,1000.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,40.0,500.0,mL,Retail
+H10-Dishwasher detergent,Dishwasher detergent (machine),Home,Households,11.95,600.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,76.0,3780.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,70.0,3780.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,130.0,3780.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,25.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,25.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,25.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,25.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,28.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,28.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,23.0,500.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,800.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,12.8,500.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,700.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,650.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,1000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,2000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,11.5,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,5.75,3000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,11.5,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,11.5,1500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,11.5,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,2000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,750.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,700.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,225.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,14.0,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,10.0,650.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,10.0,700.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,6.0,500.0,g,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,11.5,1000.0,g,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,7.0,500.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,35.0,2000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,18.0,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,21.0,3000.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,12.0,470.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,16.0,1000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,12.0,500.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,23.0,750.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,15.0,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,10.0,750.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,16.88,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,26.25,3000.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,23.0,500.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,18.25,500.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,32.92,473.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,44.79,800.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,36.79,473.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,31.57,739.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,35.8,946.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,36.79,473.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,37.63,473.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,53.17,946.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,40.0,250.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,120.0,946.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,90.0,455.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,22.95,900.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,38.0,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,31.75,946.323,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,15.0,500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,91.0,820.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,46.75,3000.78,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,10.0,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,25.0,500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,15.0,4000.0,mL,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,41.0,25.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,23.0,32.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,40.0,32.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,15.0,28.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,89.0,80.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,140.0,400.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,146.27,428.0,mL,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,35.0,70.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,44.0,30.0,units,E-commerce
+H2-Glass wipes,Screen and glass wipes,Home,Households,66.0,75.0,units,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,108.0,20000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,15.0,650.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,47.0,3785.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,15.0,750.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,15.0,750.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,16.0,946.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,13.0,750.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,43.0,500.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,4000.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,3000.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,1000.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,650.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,1000.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,1000.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,550.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,600.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,600.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.75,500.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,11.0,400.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,25.0,4000.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.0,750.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,9.5,500.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,5.0,650.0,mL,Retail
+H2-Glass cleaner,Glass cleaner,Home,Households,9.75,650.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,8.63,400.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,11.63,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,8.75,400.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,11.5,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,125.0,500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,90.0,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,19.6,650.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,49.75,414.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,23.0,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,103.5,473.176,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,34.44,473.44,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,140.0,5000.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,70.0,3000.78,mL,E-commerce
+H10-Liquid dish soap,Dishwashing soap,Home,Households,35.79,700.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,159.0,500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,27.0,500.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,85.0,700.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,45.0,750.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,35.0,473.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,31.0,650.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,53.0,946.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,18.0,237.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,38.47,800.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,59.0,45.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,129.0,1000.0,mL,E-commerce
+H3-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Home,Households,87.0,1000.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,20.0,650.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,50.0,355.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,19.0,500.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,11.5,700.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,650.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,650.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,5.75,700.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,5.75,1000.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,17.0,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,14.0,650.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,15.0,650.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,14.0,500.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,18.38,500.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,60.0,400.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,90.0,414.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,50.0,473.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,525.0,2000.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,141.6,561.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,28.0,354.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,209.0,300.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,28.59,250.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,71.4,750.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,140.0,680.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,50.0,355.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,20.0,300.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,24.0,300.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,47.0,411.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,63.0,500.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,17.0,250.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,5.75,300.0,mL,Retail
+H3-Oven and grill cleaner,Degreaser,Home,Households,28.0,375.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,50.0,355.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,40.0,737.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,37.0,473.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,60.0,502.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,149.0,130.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,104.0,532.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,64.0,283.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,138.0,473.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,28.0,354.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,120.0,828.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,42.0,236.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,23.0,500.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,22.0,500.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,20.0,500.0,mL,Retail
+H10-Dishwasher detergent,Dishwasher detergent (machine),Home,Households,11.75,720.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,11.75,355.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,5.75,1000.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,5.75,725.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,5.75,1000.0,mL,Retail
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,5.75,1000.0,mL,Retail
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,22.0,1000.0,mL,Retail
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,15.0,500.0,mL,Retail
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,30.0,1000.0,mL,Retail
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,8.0,946.0,mL,Retail
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,5.75,1000.0,mL,Retail
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,60.0,946.0,mL,E-commerce
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,62.0,473.0,mL,E-commerce
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,154.0,263.0,mL,E-commerce
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,55.75,916.0,mL,E-commerce
+H4-Drain opener and clog remover,Drain opener and clog remover,Home,Households,124.0,453.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,23.0,750.0,mL,Retail
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,101.0,1000.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,149.0,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,204.0,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,351.0,3785.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,184.0,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,109.0,473.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,68.0,295.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,144.0,473.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,20.5,750.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,25.0,500.0,mL,Retail
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,23.0,750.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,41.0,567.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,42.0,946.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,29.0,828.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,37.0,710.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,219.0,945.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,23.0,500.0,mL,Retail
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,22.0,500.0,mL,Retail
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,14.0,500.0,mL,Retail
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,30.0,2000.0,mL,Retail
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,119.0,4000.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,93.0,946.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,63.0,473.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,83.0,946.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,37.0,4000.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,79.0,907.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,204.0,709.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,186.0,3000.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,44.79,800.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,536.44,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,31.0,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,23.0,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,26.55,2000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,32.0,4000.5,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,30.35,710.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,36.75,147.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,23.0,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,20.0,50.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,31.0,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,33.0,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,20.0,650.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,10.0,500.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,22.0,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,22.0,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,13.0,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,22.0,709.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,24.0,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,21.0,709.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,23.0,650.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,5.75,600.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,7.5,500.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,8.0,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,5.75,400.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,5.75,1180.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,5.75,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,15.0,650.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,8.0,495.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,12.0,1000.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,15.0,709.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,12.75,500.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,25.76,946.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,44.79,800.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,21.85,500.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,14.18,500.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,22.95,500.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,229.0,5000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,145.0,3000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,90.0,2000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,27.0,739.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,61.54,946.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,60.0,947.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,83.0,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,85.0,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,30.0,900.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,25.0,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,50.0,1000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,180.0,2000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,140.0,3785.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,140.0,947.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,65.0,1000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,110.0,5000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,30.0,1500.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,29.0,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,51.0,1800.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,27.75,3000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,25.62,946.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,51.75,740.0,mL,E-commerce
+H5-Tile and laminate cleaner,Floor cleaner,Home,Households,145.0,946.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,5.75,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,5.75,2000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,11.5,900.0,mL,Retail
+H5-Tile and laminate cleaner,Floor cleaner,Home,Households,11.5,750.0,mL,Retail
+H5-Tile and laminate cleaner,Floor cleaner,Home,Households,5.75,225.0,mL,Retail
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,5.75,750.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,5.75,3000.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,18.0,1500.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,19.0,900.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,23.0,900.0,mL,Retail
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,85.0,1035.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,37.0,1500.0,mL,Retail
+H6-Wood polish for furniture,Furniture polish,Home,Households,45.0,354.0,mL,Retail
+H6-Wood polish for furniture,Furniture polish,Home,Households,56.0,355.0,mL,Retail
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,111.0,221.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,52.0,473.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,179.0,450.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,90.0,118.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,75.0,236.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,209.0,177.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,99.0,236.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,379.0,3785.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,179.0,510.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,22.0,236.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,47.0,473.0,mL,Retail
+H6-Wood polish for furniture,Furniture polish,Home,Households,42.0,650.0,mL,Retail
+H6-Wood polish for furniture,Furniture polish,Home,Households,5.75,500.0,mL,Retail
+H6-Wood polish for furniture,Furniture polish,Home,Households,5.75,300.0,mL,Retail
+H6-Wood polish for furniture,Furniture polish,Home,Households,46.0,372.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,50.0,384.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,45.0,354.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,41.0,650.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,90.0,1892.0,mL,Retail
+H7-Carpet shampoo,Carpet shampoo,Home,Households,60.0,1000.0,mL,Retail
+H7-Carpet shampoo,Carpet shampoo,Home,Households,5.75,1000.0,mL,Retail
+H7-Carpet shampoo,Carpet shampoo,Home,Households,50.0,650.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,145.0,5000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,199.0,4000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,117.0,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,52.0,5000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,174.0,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,5.75,3750.0,mL,Retail
+H11-Aerosol air freshener,Air freshener,Home,Households,24.0,200.0,mL,Retail
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,10.0,750.0,mL,Retail
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,52.0,270.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,36.0,370.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,39.0,500.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,137.0,532.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,67.0,236.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,32.0,473.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,41.0,236.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,5.75,500.0,mL,Retail
+H7-Carpet shampoo,Carpet shampoo,Home,Households,53.0,650.0,mL,Retail
+H7-Spot remover for carpets,Stain remover,Home,Households,47.0,650.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,165.0,1000.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,124.0,396.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,109.0,450.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,114.0,454.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,52.0,532.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,109.0,502.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,94.0,709.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,30.0,500.0,mL,Retail
+H7-Upholstery stain remover,Stain remover,Home,Households,43.0,250.0,mL,Retail
+H7-Upholstery stain remover,Stain remover,Home,Households,111.0,650.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,210.0,1300.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,55.0,500.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,18.0,1000.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,168.0,425.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,50.0,623.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,90.0,1042.0,mL,E-commerce
+H7-Upholstery stain remover,Stain remover,Home,Households,48.0,652.0,mL,Retail
+H7-Upholstery stain remover,Stain remover,Home,Households,41.0,400.0,mL,Retail
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,24.0,219.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,31.75,232.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,35.0,461.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,243.0,1275.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,126.0,315.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,49.75,1000.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,188.0,30.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,235.0,300.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,78.0,280.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,181.0,90.0,units,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,18.72,300.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,23.34,400.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,144.0,1000.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,67.0,510.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,15.0,496.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,31.84,550.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,16.09,300.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,22.47,400.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,37.47,500.0,mL,E-commerce
+H8-Germicidal spray,Disinfectant and cleaner,Home,Households,44.97,700.0,mL,E-commerce
+H12-Hand soap,Hand soap,Home,Households,40.0,400.0,mL,Retail
+H8-Hand sanitizer,Hand sanitizer,Home,Households,14.87,60.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,60.0,4000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,40.0,450.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,46.0,450.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,20.0,538.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,1500.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,1500.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,750.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,225.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,1500.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,3000.0,mL,Retail
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,5.75,4000.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,14.51,4000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,28.13,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,51.0,450.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,17.63,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,75.0,2000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,19.88,300.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,37.13,450.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,26.75,500.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,22.89,768.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,36.17,100.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,36.64,739.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,36.3,946.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,36.8,450.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,36.09,2000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,26.85,750.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,19.65,250.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,34.5,200.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,21.85,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,18.1,250.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,47.15,450.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,44.85,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,36.8,350.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,24.0,750.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,26.25,3000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,31.13,4500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,18.0,1500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,34.13,2000.0,mL,E-commerce
+H8-Surface sanitizer spray,Disinfectant and cleaner,Home,Households,17.63,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,95.0,354.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,77.0,473.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,32.46,768.0,mL,E-commerce
+H8-Surface sanitizer spray,Disinfectant and cleaner,Home,Households,23.0,120.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,14.0,300.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,137.0,354.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,15.0,266.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,39.0,354.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,39.0,473.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,124.0,312.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,103.0,340.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,47.0,473.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,46.0,354.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,14.0,236.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,15.0,500.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,8.0,29.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,23.0,473.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,13.0,59.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,17.0,236.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,26.0,236.0,mL,E-commerce
+H8-Hand sanitizer,Hand sanitizer,Home,Households,13.0,500.0,mL,E-commerce
+H8-Dust mite spray,Bug repellent,Home,Households,157.0,368.0,mL,E-commerce
+H9-Bleach,Bleach,Home,Households,23.0,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,24.0,3790.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,29.0,3790.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,71.0,500.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,950.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,46.0,3000.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,5.75,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,6.5,950.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,13.0,1890.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,12.0,1890.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,3.5,470.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,24.0,3780.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,10.0,495.0,mL,Retail
+H9-Bleach,Bleach,Home,Households,21.75,3780.0,mL,E-commerce
+H9-Bleach,Bleach,Home,Households,5.5,950.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,69.0,500.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,52.75,804.4,mL,Retail
+H9-Fabric refresher,Fabric refresher,Home,Households,80.0,156.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,35.85,370.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,87.19,500.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,23.95,200.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,21.39,375.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,39.0,800.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,23.0,370.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,38.55,591.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,75.0,500.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,43.38,325.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,559.0,11340.0,mL,B2B
+H9-Scent booster for laundry,Scent booster,Home,Households,229.0,2500.0,mL,B2B
+H9-Scent booster for laundry,Scent booster,Home,Households,38.3,800.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,25.03,750.0,mL,E-commerce
+H9-Scent booster for laundry,Scent booster,Home,Households,22.75,400.0,mL,B2B
+H9-Scent booster for laundry,Scent booster,Home,Households,504.86,6000.0,mL,B2B
+H9-Scent booster for laundry,Scent booster,Home,Households,23.0,2000.0,mL,Retail
+H9-Fabric refresher,Fabric refresher,Home,Households,48.0,200.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,34.88,50.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,28.0,500.0,mL,Retail
+H9-Dryer sheets,Dryer sheets,Home,Households,110.0,160.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,49.0,105.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,72.0,240.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,80.0,240.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,50.0,144.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,201.0,120.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,54.0,80.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,29.0,80.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,154.0,240.0,units,E-commerce
+H9-Dryer sheets,Dryer sheets,Home,Households,235.0,230.0,units,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,33.0,3000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,11.5,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,17.0,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,17.0,1000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,11.5,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,750.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,11.5,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,19.0,3000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,23.0,3000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,11.5,3000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,24.5,3900.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,2000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,5.75,1000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,1800.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,2000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,5.75,700.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,1500.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,1000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,1000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,5.75,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,5.75,1000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,12.0,1000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,12.0,1000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,18.0,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,27.0,3000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,19.5,2000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,34.0,1800.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,15.0,700.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,23.0,1000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,29.0,950.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,9.0,900.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,14.0,3000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,38.0,1400.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,43.0,1800.0,mL,Retail
+H9-Fabric refresher,Fabric refresher,Home,Households,51.0,1840.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,43.95,4800.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,23.95,2000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,45.9,3600.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,31.05,500.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,48.9,3000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,39.0,6000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,52.9,1000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,262.27,5000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,26.07,1000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,26.07,1000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,65.05,940.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,58.81,1480.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,106.66,1890.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,39.39,750.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,53.23,750.0,mL,E-commerce
+H9-Powder detergent,Detergent (powder),Home,Households,88.0,9000.0,mL,Retail
+H9-Powder detergent,Detergent (powder),Home,Households,5.75,1300.0,mL,Retail
+H9-Powder detergent,Detergent (powder),Home,Households,55.0,8000.0,mL,Retail
+H9-Powder detergent,Detergent (powder),Home,Households,69.0,5000.0,mL,Retail
+H9-Powder detergent,Detergent (powder),Home,Households,85.0,2000.0,mL,E-commerce
+H9-Powder detergent,Detergent (powder),Home,Households,108.0,3000.0,mL,E-commerce
+H9-Powder detergent,Detergent (powder),Home,Households,86.0,473.0,mL,E-commerce
+H9-Powder detergent,Detergent (powder),Home,Households,261.0,1047.0,mL,E-commerce
+H9-Powder detergent,Detergent (powder),Home,Households,178.0,59.0,mL,E-commerce
+H9-Powder detergent,Detergent (powder),Home,Households,80.0,900.0,mL,E-commerce
+H9-Scent booster for laundry,Scent booster,Home,Households,22.95,210.0,g,E-commerce
+H9-Scent booster for laundry,Scent booster,Home,Households,96.09,515.0,g,E-commerce
+H9-Scent booster for laundry,Scent booster,Home,Households,61.0,194.0,g,E-commerce
+H9-Scent booster for laundry,Scent booster,Home,Households,78.73,1117.89,g,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,43.0,2700.0,mL,Retail
+H9-Stain remover for laundry,Stain remover,Home,Households,25.0,500.0,mL,Retail
+H9-Stain remover on the go,Stain remover,Home,Households,20.0,500.0,mL,Retail
+H9-Stain remover on the go,Stain remover,Home,Households,18.0,900.0,mL,Retail
+H9-Stain remover for laundry,Stain remover,Home,Households,26.75,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,23.46,473.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,57.1,473.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,40.0,800.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,39.0,500.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,34.59,200.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,5.75,750.0,mL,Retail
+H9-Stain remover on the go,Stain remover,Home,Households,16.0,900.0,mL,Retail
+H9-Stain remover on the go,Stain remover,Home,Households,10.0,500.0,mL,Retail
+H9-Stain remover on the go,Stain remover,Home,Households,99.0,30.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,14.8,75.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,13.99,20.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,21.47,9.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,17.95,200.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,62.75,474.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,79.8,473.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,149.0,1999.16,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,474.0,1182.92,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,114.42,250.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,134.0,1500.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,25.3,500.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,80.0,284.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,14.5,200.0,mL,E-commerce
+P1-Coat conditioner and detanglers for pets,Pet conditioner,Pets,Households,55.0,3780.0,mL,Retail
+P7-Medicated pet shampoo for skin conditions,Pet shampoo,Pets,Households,500.0,35.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,400.0,35.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,500.0,35.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,250.0,25.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,400.0,30.0,mL,Retail
+P1-Coat conditioner and detanglers for pets,Pet conditioner,Pets,Households,45.0,354.0,mL,Retail
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,44.0,100.0,mL,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,30.0,50.0,units,Retail
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,20.0,80.0,units,Retail
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,45.0,60.0,units,Retail
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,30.0,100.0,units,Retail
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,21.0,40.0,units,Retail
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,36.0,474.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,30.0,709.0,mL,Retail
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,89.55,250.0,mL,Retail
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,60.0,200.0,mL,Retail
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,50.0,710.0,mL,Retail
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,50.0,710.0,mL,Retail
+P2-Air freshener for pets,Air freshener,Pets,Households,76.24,200.0,mL,Retail
+P2-Air freshener for pets,Air freshener,Pets,Households,118.44,250.0,mL,Retail
+P2-Air freshener for pets,Air freshener,Pets,Households,85.0,236.0,mL,Retail
+P2-Air freshener for pets,Air freshener,Pets,Households,69.0,236.0,mL,Retail
+P2-Litter box deodorizer,Odor eliminator,Pets,Households,35.0,750.0,mL,Retail
+P2-Litter box deodorizer,Odor eliminator,Pets,Households,30.0,425.0,mL,Retail
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,25.0,120.0,mL,Retail
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,60.0,750.0,mL,Retail
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,50.0,500.0,mL,Retail
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,88.0,70.0,mL,E-commerce
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,300.0,474.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,44.0,650.0,mL,Retail
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,60.0,500.0,mL,Retail
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,32.0,500.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,8.58,946.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,83.44,350.0,mL,Retail
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,94.0,700.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,50.0,750.0,mL,Retail
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,45.0,750.0,mL,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,99.0,473.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,35.0,473.0,mL,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,35.0,250.0,mL,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,55.0,946.0,mL,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,63.0,355.0,mL,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,57.0,113.0,g,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,50.0,473.0,mL,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,40.0,454.0,g,Retail
+P4-Flea and tick home spray,Bug repellent,Pets,Households,45.0,150.0,mL,Retail
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,66.0,120.0,mL,E-commerce
+P8-Ear cleaning solution,Pet dry shampoo,Pets,Households,66.61,100.0,mL,Retail
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,63.25,120.0,mL,Retail
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,57.5,150.0,mL,Retail
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,119.0,2000.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,86.5,50.0,mL,Retail
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,55.0,100.0,mL,Retail
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,28.75,100.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,25.0,500.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,55.0,355.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,55.0,355.0,mL,Retail
+P7-General purpose pet shampoo,Pet shampoo,Pets,Households,45.0,148.0,mL,Retail
+P8-Ear cleaning solution,Pet dry shampoo,Pets,Households,274.0,470.0,mL,E-commerce
+P8-Ear cleaning solution,Pet dry shampoo,Pets,Households,32.5,50.0,mL,Retail
+P8-Eye washes and lubricant eye drops,Pet eye washes and lubricant eye drops,Pets,Households,23.0,50.0,mL,Retail
+P8-Ear cleaning solution,Pet dry shampoo,Pets,Households,55.0,100.0,mL,Retail
+R1-Food-grade sanitizers for countertops and prep areas,Disinfectant and cleaner,Restaurants,Horeca,41.25,20000.0,mL,B2B
+R1-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Restaurants,Horeca,21.67,6000.0,g,B2B
+R2-Heavy-duty kitchen degreaser for grills and hoods,Degreaser,Restaurants,Horeca,70.0,15120.0,mL,B2B
+R3-Antibacterial hand soap,Hand soap,Restaurants,Horeca,36.83,750.0,mL,B2B
+R3-Hand sanitizer for staff and customers,Hand sanitizer,Restaurants,Horeca,33.67,750.0,mL,B2B
+R4-Manual dishwashing soap,Dishwashing soap,Restaurants,Horeca,137.5,9068.0,g,B2B
+R4-Rinse aid for spot-free drying,Dishwasher rinse aid,Restaurants,Horeca,77.5,15120.0,mL,B2B
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,17.0,400.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,111.0,473.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,23.0,236.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,65.0,500.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,55.0,627.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,72.0,237.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,36.0,250.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,264.0,1000.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,38.0,500.0,mL,E-commerce
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,116.0,500.0,mL,E-commerce
+R8-Metal polish for cookware and utensils,Stainless steel cleaner,Restaurants,Horeca,37.64,3000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,149.0,30000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,28.0,50.0,mL,B2B
+F4-FM restroom deodorizer,Odor eliminator,Facilities management,Facilities management,16.0,495.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,63.0,30000.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,12.0,400.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,11.0,1180.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,20.0,470.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,50.0,1000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,110.0,3000.0,mL,B2B
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,42.0,4000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,35.0,500.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,55.0,450.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,50.0,4000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,200.0,5000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,17.0,3000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,74.0,3000.0,mL,B2B
+F3-FM hand sanitizer for staff use,Hand sanitizer,Facilities management,Facilities management,25.0,200.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,14.0,400.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,74.0,3000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,105.0,11280.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,63.0,3000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,12.0,450.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,38.0,3000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,5.0,1000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,26.0,500.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,50.0,750.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,35.0,3000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,29.5,3000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,220.0,4000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,37.0,3000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,93.0,250.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,49.0,5000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,26.0,500.0,mL,B2B
+F3-FM hand sanitizer for staff use,Hand sanitizer,Facilities management,Facilities management,8.0,50.0,mL,B2B
+F8-FM stainless steel polish and cleaner for fixtures and fittings,Stainless steel cleaner,Facilities management,Facilities management,13.0,400.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,20.0,750.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,28.0,1000.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,15.0,500.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,25.0,950.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,6.0,500.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,11.0,3000.0,mL,B2B
+F11-Powder detergent,Detergent (powder),Facilities management,Facilities management,300.0,19000.0,mL,B2B
+F11-Powder detergent,Detergent (powder),Facilities management,Facilities management,52.0,2500.0,mL,B2B
+F1-FM wood furniture cleaner,Furniture polish,Facilities management,Facilities management,10.0,300.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,7.0,300.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,80.0,300.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,16.0,300.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,15.0,300.0,mL,B2B
+F4-FM restroom air freshener,Air freshener,Facilities management,Facilities management,15.0,250.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,143.0,5000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,89.0,4500.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,103.0,5000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,205.0,5000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,130.0,5000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,105.0,5000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,78.0,4000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,143.0,4500.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,109.0,5000.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,976.0,12.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,166.0,5000.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,159.0,5000.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,183.0,5000.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,166.0,5000.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,129.0,750.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,149.0,900.0,mL,B2B
+R4-Manual dishwashing soap,Dishwashing soap,Restaurants,Horeca,447.0,2000.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,99.0,5000.0,mL,B2B
+R2-Oven and fryer cleaner,Degreaser,Restaurants,Horeca,1473.0,28.0,mL,B2B
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,54.0,709.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,319.0,3000.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,46.0,680.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,179.0,354.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,59.0,750.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,87.0,700.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,257.0,250.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,54.0,709.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,67.0,2000.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,39.0,680.0,mL,E-commerce
+R10-Other restaurant products,Other consumables,Restaurants,Horeca,563.0,5000.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,182.0,20000.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,340.0,20000.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,267.0,25000.0,mL,B2B
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,56.0,500.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,18.0,50.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,57.0,500.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,121.0,473.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,49.0,623.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,39.0,680.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,46.0,680.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,105.0,120.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,89.0,120.0,mL,E-commerce
+C2-Alloy wheel cleaner,Degreaser,Automotive,Transportation,151.0,1000.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,633.0,473.0,mL,B2B
+C4-Car air freshener,Air freshener,Automotive,Transportation,15.0,70.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,26.0,2.5,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,19.0,10.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,70.0,57.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,11.0,70.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,11.0,4.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,17.0,8.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,25.0,141.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,18.0,35.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,13.0,28.0,mL,E-commerce
+C2-Brake dust remover,Degreaser,Automotive,Transportation,920.0,25000.0,mL,B2B
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,800.0,3000.0,mL,B2B
+C6-Car tar remover,Degreaser,Automotive,Transportation,267.0,25000.0,mL,B2B
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,115.0,473.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,124.0,473.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,296.0,400.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,118.0,946.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,90.0,473.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,159.0,650.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,104.0,500.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,109.0,437.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,134.0,437.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,62.0,400.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,154.0,621.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,144.0,355.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,107.0,473.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,77.0,473.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,134.0,500.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,80.0,500.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,272.0,473.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,104.0,236.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,87.0,295.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,91.0,500.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,122.0,180.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,47.0,300.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,97.0,100.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,87.0,294.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,123.0,236.0,mL,E-commerce
+C5-Car plastic and trim restorer,Surface lubricant and protectant,Automotive,Transportation,85.0,283.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,141.0,473.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,83.0,100.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,93.0,473.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,72.0,473.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,65.0,360.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,279.0,473.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,119.0,350.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,87.0,473.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,135.0,500.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,170.0,1000.0,mL,B2B
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,66.0,768.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,114.0,453.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,99.0,700.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,66.0,20.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,123.0,560.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,139.0,473.0,mL,E-commerce
+C5-Car spray wax,Vehicle dry wash exterior cleaner,Automotive,Transportation,114.0,600.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,25.0,500.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,378.0,5000.0,mL,B2B
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,400.0,473.0,mL,B2B
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,43.0,481.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,112.0,945.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,60.0,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,34.0,500.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,17.39,50.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,25.0,100.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,164.0,250.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,121.0,100.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,24.0,355.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,29.0,200.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,35.0,400.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,194.0,300.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,46.0,100.0,mL,E-commerce
+C6-Car rust remover,Rust remover,Automotive,Transportation,166.0,300.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,59.0,425.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,65.0,473.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,40.0,500.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,39.0,250.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,39.0,473.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,131.0,226.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,80.0,300.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,99.0,425.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,82.0,300.0,mL,E-commerce
+C6-Car tar remover,Degreaser,Automotive,Transportation,124.0,907.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,59.0,710.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,130.0,946.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,30.0,330.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,155.0,650.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,262.0,500.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,129.0,453.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,116.0,20.0,Units,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,59.0,710.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,39.0,100.0,mL,E-commerce
+C7-Graffiti remover,Ink and paint remover,Automotive,Transportation,69.0,50.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,108.0,473.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,33.0,450.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,23.0,450.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,142.0,651.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,192.0,425.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,82.0,650.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,45.0,450.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,222.0,340.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,74.0,30.0,mL,E-commerce
+C7-Adhesive remover for vehicles,Adhesive remover,Automotive,Transportation,36.0,250.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,239.0,25000.0,mL,B2B
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,60.0,200.0,mL,B2B
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,462.0,25000.0,mL,B2B
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,141.0,407.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,104.0,237.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,85.0,177.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,84.0,96.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,139.0,250.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,234.0,273.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,76.0,355.0,mL,E-commerce
+C5-Car chrome and metal shine,Surface lubricant and protectant,Automotive,Transportation,57.0,250.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,341.0,5000.0,mL,B2B
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,170.0,1000.0,mL,B2B
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,240.0,1000.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,41.0,650.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,88.0,623.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,70.0,250.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,10.0,118.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,130.0,25000.0,mL,B2B
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,65.75,561.0,mL,B2B
+C3-Windshield water repellent,Water repellent formula,Automotive,Transportation,59.75,680.0,mL,B2B
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,27.75,710.0,mL,B2B
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,49.0,450.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,36.0,510.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,99.0,340.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,63.0,907.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,31.0,240.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,74.0,453.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,63.0,510.0,mL,E-commerce
+C5-Car water spot remover,Stain remover,Automotive,Transportation,44.0,473.0,mL,B2B
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,64.0,50.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,92.0,227.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,193.0,474.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,80.0,473.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,42.0,22.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,52.0,250.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,70.0,150.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,128.0,500.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,5.0,50.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,48.0,750.0,mL,B2B
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,119.0,768.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,35.0,473.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,50.0,473.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,48.0,710.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,69.0,473.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,33.0,769.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,105.0,5000.0,mL,B2B
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,41.26,473.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,63.76,538.0,mL,E-commerce
+C5-Car vinyl top cleaner,Surface lubricant and protectant,Automotive,Transportation,66.0,473.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,40.0,500.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,50.0,425.0,mL,E-commerce
+C2-Tire shiner,Surface lubricant and protectant,Automotive,Transportation,47.0,500.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,79.0,2000.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,48.0,1000.0,mL,B2B
+C1-Car wash shampoo,Vehicle wet wash shampoo,Automotive,Transportation,79.0,5000.0,mL,B2B
+H5-Wax and floor polish,Floor polish,Home,Households,116.26,500.0,mL,B2B
+H6-Wood polish for furniture,Furniture polish,Home,Households,174.0,946.353,mL,B2B
+H5-Wax and floor polish,Floor polish,Home,Households,84.39,453.59,mL,B2B
+H5-Wax and floor polish,Floor polish,Home,Households,136.89,1000.0,mL,B2B
+H5-Wax and floor polish,Floor polish,Home,Households,65.63,946.353,mL,B2B
+H6-Wood polish for furniture,Furniture polish,Home,Households,70.0,473.176,mL,B2B
+H5-Wax and floor polish,Floor polish,Home,Households,134.0,400.0,mL,B2B
+H5-Wax and floor polish,Floor polish,Home,Households,310.0,3780.0,mL,B2B
+F1-FM wood furniture cleaner,Furniture polish,Facilities management,Facilities management,90.0,3000.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,86.0,5000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,48.0,15000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,83.0,7470.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,57.0,4000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,69.0,5000.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,29.0,1280.0,mL,B2B
+A7-Aicraft wet wash shampoo,Vehicle wet wash shampoo,Aviation,Transportation,4630.43,200000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,739.0,3000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,399.0,5000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,278.0,3780.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,101.95,4500.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,140.81,10000.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,140.8,10000.0,mL,B2B
+F1-FM wood furniture cleaner,Furniture polish,Facilities management,Facilities management,357.83,10000.0,mL,B2B
+F7-FM odor eliminator,Odor eliminator,Facilities management,Facilities management,592.0,2010.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,184.0,1000.0,mL,B2B
+F8-FM stainless steel polish and cleaner for fixtures and fittings,Stainless steel cleaner,Facilities management,Facilities management,302.55,10000.0,mL,B2B
+H9-Fabric refresher,Fabric refresher,Home,Households,138.0,1000.0,mL,B2B
+H9-Fabric refresher,Fabric refresher,Home,Households,64.0,300.0,mL,B2B
+F9-FM epoxy cleaner for heavy-traffic parking lot area,Epoxy cleaner,Facilities management,Facilities management,140.0,5000.0,mL,B2B
+A2-Broad-spectrum disinfectant for surfaces,Disinfectant and cleaner,Aviation,Transportation,245.88,8400.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,956.8,50000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,978.0,75000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,1237.0,50000.0,mL,B2B
+F11-Liquid detergent,Detergent (liquid),Facilities management,Facilities management,1027.0,50000.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,534.0,25000.0,mL,B2B
+F2-FM high performance carpet shampoo,Carpet shampoo,Facilities management,Facilities management,3342.0,100000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,2012.0,50000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,28980.0,350000.0,mL,B2B
+C5-Car gum remover,Gum remover,Automotive,Transportation,88.0,350.0,mL,E-commerce
+C5-Car gum remover,Gum remover,Automotive,Transportation,13.19,100.0,mL,E-commerce
+C5-Car gum remover,Gum remover,Automotive,Transportation,39.95,236.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,109.0,34080.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,109.0,34080.0,mL,E-commerce
+H12-Hand soap,Hand soap,Home,Households,90.0,4000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,74.0,12000.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,175.0,400.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,299.0,3000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,55.0,3000.0,mL,E-commerce
+H10-Liquid dish soap,Dishwashing soap,Home,Households,90.0,6000.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,29.0,500.0,mL,E-commerce
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,744.0,10000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,16.0,500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,13.95,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,31.9,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,14.0,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,4.95,600.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,10.35,4000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,30.25,4000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,8.95,500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,15.4,4000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,20.3,2000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,10.95,400.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,79.0,236.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,6.5,690.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,12.95,5000.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,23.95,1500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,16.0,500.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,33.85,750.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,709.0,709.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,46.95,3780.0,mL,E-commerce
+H2-Glass cleaner,Glass cleaner,Home,Households,49.0,500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,44.91,120.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,14.95,650.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,23.2,500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,63.85,500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,20.0,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,40.0,1000.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,43.81,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,79.0,1500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,13.5,500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,39.0,500.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,19.95,650.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,22.95,1300.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,11.95,750.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,73.25,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,23.95,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,27.95,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,39.95,414.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,11.95,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,22.0,750.0,mL,E-commerce
+H3-Kitchen degreaser,Degreaser,Home,Households,44.95,500.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,68.5,750.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,20.05,300.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,72.0,429.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,30.5,500.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,47.75,429.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,26.5,900.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,44.75,414.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,20.05,300.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,124.0,562.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,140.29,769.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,73.25,750.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,13.95,300.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,39.0,375.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,62.95,500.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,22.0,500.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,22.0,400.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,39.95,499.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,49.95,710.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,33.95,400.0,mL,E-commerce
+H3-Oven and grill cleaner,Degreaser,Home,Households,94.0,355.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,44.95,503.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,49.95,236.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,27.0,400.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,69.0,250.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,76.0,435.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,34.95,680.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,165.0,473.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,77.95,300.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,94.0,444.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,23.92,500.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,44.95,355.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,59.0,700.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,22.7,400.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,49.95,497.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,110.0,355.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,59.95,482.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,24.0,500.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,49.95,236.0,mL,E-commerce
+H3-Stainless steel cleaner,Stainless steel cleaner,Home,Households,87.0,444.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,22.0,709.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,51.85,2250.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,4.6,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,19.5,709.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,16.95,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,7.5,1180.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,79.0,104.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,19.75,710.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,156.35,1418.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,12.5,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,13.95,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,6.5,946.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,5.95,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,19.5,709.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,11.95,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,34.55,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,11.95,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,23.45,750.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,15.0,1000.0,mL,E-commerce
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,22.4,750.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,49.9,120.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,39.75,946.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,54.75,946.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,39.95,946.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,23.0,750.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,20.95,500.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,69.99,120.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,114.52,828.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,105.47,800.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,295.05,3784.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,26.0,60.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,31.35,1000.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,39.95,946.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,49.95,770.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,679.0,3312.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,135.0,1000.0,mL,E-commerce
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,641.0,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,64.0,100.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,79.98,400.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,23.0,750.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,38.01,60.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,120.55,417.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,25.11,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,199.31,947.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,89.0,148.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,100.0,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,44.1,60.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,27.95,750.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,41.45,94.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,44.0,60.0,mL,E-commerce
+H4-Tile and grout cleaner,"Toilet, shower and tile cleaner",Home,Households,135.0,1000.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,394.0,946.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,88.8,100.0,mL,E-commerce
+H4-Mold and mildew remover,Disinfectant and cleaner,Home,Households,71.0,30.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,49.99,100.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,39.05,269.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,9.95,300.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,36.77,269.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,9.95,300.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,15.5,125.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,14.41,600.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,39.99,269.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,27.0,125.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,35.5,269.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,21.9,50.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,21.9,50.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,19.9,50.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,21.9,50.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,32.9,50.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,39.0,85.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,40.0,50.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,99.0,500.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,99.0,500.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,26.05,110.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,122.56,473.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,94.91,120.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,161.96,370.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,87.59,59.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,113.11,60.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,69.95,900.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,109.46,30.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,109.67,59.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,47.0,300.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,158.7,120.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,32.0,100.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,25.7,100.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,130.0,130.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,21.0,300.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,44.95,503.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,19.95,104.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,44.95,89.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,39.0,1000.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,19.5,500.0,mL,E-commerce
+H11-Odor neutralizing spray,Odor eliminator,Home,Households,49.0,41.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,49.9,150.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,59.99,120.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,37.95,1500.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,119.0,3780.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,109.0,3780.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,59.99,120.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,159.86,946.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,31.9,1000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,27.95,3000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,14.0,1000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,58.95,1000.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,119.0,3780.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,37.5,100.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,129.0,3780.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,79.95,1890.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,100.0,300.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,65.05,100.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,33.75,1500.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,119.0,3780.0,mL,E-commerce
+H5-Hardwood floor cleaner,Floor cleaner,Home,Households,49.95,946.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,200.99,620.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,232.79,80.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,159.86,30.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,59.99,120.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,85.39,100.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,99.06,473.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,129.76,946.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,79.99,200.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,78.1,946.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,99.43,500.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,29.95,296.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,32.7,120.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,9.9,120.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,25.1,120.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,263.95,500.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,317.95,500.0,mL,E-commerce
+H5-Wax and floor polish,Floor polish,Home,Households,185.95,120.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,33.75,1500.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,142.95,946.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,79.95,946.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,39.75,946.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,90.39,1000.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,86.0,250.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,37.95,500.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,69.99,100.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,94.02,1000.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,126.85,946.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,29.95,296.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,19.95,1500.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,79.95,946.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,39.95,497.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,99.0,296.0,mL,E-commerce
+H5-Marble cleaner,Marble floor cleaner,Home,Households,197.95,100.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,40.03,600.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,61.99,100.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,55.9,100.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,18.87,300.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,9.0,300.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,49.99,125.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,49.95,355.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,61.99,208.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,108.0,473.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,91.93,473.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,32.7,120.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,39.95,900.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,24.85,60.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,17.0,300.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,20.0,300.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,159.0,1892.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,25.0,600.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,99.0,1060.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,84.95,237.0,mL,E-commerce
+H6-Wood polish for furniture,Furniture polish,Home,Households,89.0,237.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,141.75,473.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,55.0,473.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,49.95,473.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,42.75,500.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,44.95,473.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,86.75,473.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,39.0,499.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,44.75,355.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,74.0,532.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,89.57,236.0,mL,E-commerce
+H6-Leather cleaner,Leather and vinyl cleaner,Home,Households,35.0,500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,24.84,2000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,143.0,1893.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,192.0,1470.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,38.95,3000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,55.0,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,58.98,1500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,26.95,650.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,165.65,20000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,9.3,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,99.0,1500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,19.7,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,59.0,1500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,40.0,4000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,89.0,1500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,39.5,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,28.5,1000.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,99.0,1500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,43.95,500.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,43.95,400.0,mL,E-commerce
+H7-Carpet shampoo,Carpet shampoo,Home,Households,39.0,1000.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,295.7,2130.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,49.9,200.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,124.43,947.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,138.16,946.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,29.95,473.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,89.0,1000.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,131.19,946.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,36.23,472.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,32.95,511.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,87.65,538.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,41.7,200.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,65.0,400.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,43.95,500.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,32.95,511.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,89.0,1000.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,46.7,400.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,38.8,650.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,61.95,500.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,53.0,473.0,mL,E-commerce
+H7-Spot remover for carpets,Stain remover,Home,Households,89.0,700.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,140.66,500.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,125.0,325.0,mL,E-commerce
+H11-Aerosol air freshener,Air freshener,Home,Households,164.47,120.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,171.79,100.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,388.0,375.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,111.46,236.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,113.9,120.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,236.2,237.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,258.71,237.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,86.17,207.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,99.0,500.0,mL,E-commerce
+H7-Fabric freshener for furnitures,Fabric refresher,Home,Households,28.0,250.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,36.95,800.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,10.95,250.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,59.41,5000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,22.0,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,18.0,1500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,35.0,3000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,127.0,800.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,11.95,3000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,82.25,2000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,6.88,3780.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,24.95,4500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,15.95,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,25.55,480.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,19.95,650.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,23.95,500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,15.95,3000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,10.95,450.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,17.1,1000.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,10.5,1500.0,mL,E-commerce
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,16.0,3000.0,mL,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,24.25,35.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,70.81,80.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,95.95,300.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,69.95,200.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,45.0,36.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,77.51,1920.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,49.58,50.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,21.84,100.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,110.0,96.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,39.95,35.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,24.9,125.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,35.0,35.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,19.95,120.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,35.0,100.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,14.0,100.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,15.95,180.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,35.45,36.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,16.0,50.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,75.0,20.0,units,E-commerce
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,59.4,80.0,units,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,66.5,3000.0,mL,E-commerce
+H9-Liquid detergent,Detergent (liquid),Home,Households,42.95,4100.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,17.95,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,14.8,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,17.95,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,24.95,800.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,59.0,355.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,44.1,100.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,98.49,532.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,41.4,240.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,27.5,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,42.0,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,23.95,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,14.95,500.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,24.5,800.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,32.2,400.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,29.95,900.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,48.0,4000.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,31.95,1800.0,mL,E-commerce
+H9-Stain remover for laundry,Stain remover,Home,Households,33.0,500.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,124.33,450.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,143.88,1000.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,174.79,1000.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,8.13,200.0,mL,E-commerce
+H9-Wrinkle releaser,Wrinkle releaser,Home,Households,102.81,270.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,140.66,500.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,237.0,800.0,mL,E-commerce
+H9-Fabric refresher,Fabric refresher,Home,Households,98.42,800.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,39.5,8000.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,9.0,1000.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,19.95,2000.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,9.95,2000.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,29.95,4000.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,35.0,2000.0,mL,E-commerce
+H9-Fabric softener,Fabric softener,Home,Households,90.0,3000.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,15.95,9.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,58.29,10.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,71.21,27.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,110.99,50.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,44.1,20.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,72.9,30.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,110.43,175.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,69.99,27.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,83.67,27.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,137.99,150.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,68.0,10.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,21.9,9.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,22.5,75.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,32.05,50.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,280.0,40.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,119.0,66.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,59.95,100.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,55.95,27.0,mL,E-commerce
+H9-Stain remover on the go,Stain remover,Home,Households,34.0,9.0,mL,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,31.0,80.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,39.99,9.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,80.59,100.0,units,E-commerce
+P8-Tear stain remover,Pet dry shampoo,Pets,Households,30.59,120.0,units,E-commerce
+P8-Tear stain remover,Pet dry shampoo,Pets,Households,42.99,200.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,49.94,10.0,units,E-commerce
+P8-Ear cleaning wipes,Pet dry shampoo,Pets,Households,112.11,400.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,161.22,150.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,169.96,320.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,135.65,100.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,45.3,2.0,units,E-commerce
+P8-Ear cleaning wipes,Pet dry shampoo,Pets,Households,51.45,80.0,units,E-commerce
+P8-Tear stain remover,Pet dry shampoo,Pets,Households,379.0,80.0,units,E-commerce
+P1-Deodorizing wipes for pets,Cleaning wet wipes,Pets,Households,57.1,9.0,units,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,45.75,250.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,53.1,60.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,31.41,200.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,53.1,60.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,63.7,200.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,119.06,200.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,44.34,520.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,4.2,230.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,63.0,296.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,52.0,220.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,27.8,60.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,34.95,100.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,33.0,100.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,34.95,235.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,34.95,100.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,55.0,400.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,80.0,450.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,58.0,150.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,119.0,200.0,mL,E-commerce
+P1-Waterless shampoo for pets,Pet dry shampoo,Pets,Households,71.0,520.0,mL,E-commerce
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,169.96,2000.0,mL,E-commerce
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,141.0,472.0,mL,E-commerce
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,164.0,800.0,mL,E-commerce
+P2-Pet-specific odor eliminator for home,Odor eliminator,Pets,Households,902.4,4000.0,mL,E-commerce
+P2-Litter box deodorizer,Odor eliminator,Pets,Households,49.0,175.0,mL,E-commerce
+P2-Litter box deodorizer,Odor eliminator,Pets,Households,100.78,709.0,mL,E-commerce
+P2-Litter box deodorizer,Odor eliminator,Pets,Households,102.12,220.0,mL,E-commerce
+P2-Litter box deodorizer,Odor eliminator,Pets,Households,122.0,945.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,49.99,120.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,463.06,3788.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,236.66,3785.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,129.29,118.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,157.33,996.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,185.0,946.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,171.23,946.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,139.08,946.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,69.59,500.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,60.08,1000.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,104.45,750.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,204.8,500.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,99.0,1000.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,461.0,945.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,290.0,945.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,172.0,118.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,366.0,710.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,239.0,946.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,256.0,946.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,411.0,996.0,mL,E-commerce
+P3-Pet urine odor remover,Odor eliminator,Pets,Households,56.0,650.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,87.0,750.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,28.99,150.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,121.0,947.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,138.16,946.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,141.47,1500.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,47.04,120.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,125.72,946.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,150.33,1890.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,109.71,650.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,99.0,1500.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,59.0,650.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,39.95,473.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,104.45,750.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,342.0,945.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,290.0,945.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,99.0,473.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,379.0,946.0,mL,E-commerce
+P3-Enzymatic cleaner for pet stains,Stain remover,Pets,Households,366.0,710.0,mL,E-commerce
+P3-Carpet cleaner for pet accidents,Carpet shampoo,Pets,Households,364.8,946.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,59.98,1.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,158.25,710.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,91.0,473.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,69.9,100.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,115.0,100.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,165.0,945.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,69.9,100.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,44.91,50.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,245.71,651.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,47.0,200.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,28.95,118.56,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,65.0,150.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,52.35,50.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,297.6,946.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,520.0,945.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,417.6,240.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,665.6,946.0,mL,E-commerce
+P4-Flea and tick home spray,Bug repellent,Pets,Households,96.0,250.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,52.31,150.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,23.0,260.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,59.99,60.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,47.45,200.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,69.98,100.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,69.9,100.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,79.99,500.0,mL,E-commerce
+P5-Antiseptic spray for pets,Disinfectant and cleaner,Pets,Households,66.5,75.0,mL,E-commerce
+P5-Pet-safe wound washes,Disinfectant and cleaner,Pets,Households,58.99,30.0,mL,E-commerce
+P5-Pet-safe wound washes,Disinfectant and cleaner,Pets,Households,158.0,118.0,mL,E-commerce
+P5-Pet-safe wound washes,Disinfectant and cleaner,Pets,Households,297.6,236.0,mL,E-commerce
+P5-Pet-safe wound washes,Disinfectant and cleaner,Pets,Households,186.0,207.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,48.96,750.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,93.01,1000.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,42.5,800.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,54.86,1000.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,44.18,1000.0,mL,E-commerce
+P6-Pet-safe disinfectant and cleaner,Disinfectant and cleaner,Pets,Households,44.85,500.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,130.3,710.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,55.97,500.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,237.0,200.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,35.0,500.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,137.88,946.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,161.0,474.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,47.9,500.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,116.9,59.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,150.0,250.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,137.51,946.0,mL,E-commerce
+P6-Cage and habitat cleaner,Disinfectant and cleaner,Pets,Households,513.6,200.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,96.0,250.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,34.86,125.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,59.53,473.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,132.0,236.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,237.0,473.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,149.0,237.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,37.0,118.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,105.0,240.0,mL,E-commerce
+P6-Aquarium cleaner ,Disinfectant and cleaner,Pets,Households,324.8,473.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,49.95,500.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,41.65,750.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,79.25,473.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,80.1,768.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,49.95,500.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,139.03,226.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,102.88,710.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,129.0,680.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,33.98,500.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,153.0,473.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,89.0,768.0,mL,E-commerce
+C1-Waterless car wash product,Vehicle dry wash exterior cleaner,Automotive,Transportation,34.95,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,36.87,120.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,71.1,240.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,44.99,120.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,69.99,120.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,51.25,710.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,39.48,680.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,26.0,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,37.17,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,58.91,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,119.75,473.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,36.0,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,49.0,680.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,24.0,750.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,69.0,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,65.0,709.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,19.0,500.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,65.0,709.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,50.0,700.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,29.0,650.0,mL,E-commerce
+C2-Wheel cleaner,Degreaser,Automotive,Transportation,39.95,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,69.99,50.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,39.75,650.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,33.5,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,65.75,709.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,25.27,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,49.51,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,60.0,300.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,35.0,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,25.9,250.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,55.0,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,79.0,236.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,29.0,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,35.0,680.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,18.0,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,39.9,50.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,39.95,410.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,65.0,709.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,49.0,500.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,99.0,650.0,mL,E-commerce
+C3-Car glass cleaner,Glass cleaner,Automotive,Transportation,56.0,250.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,36.87,30.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,69.99,100.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,47.04,120.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,30.19,500.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,32.46,400.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,54.53,400.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,37.5,400.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,41.85,650.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,53.1,120.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,47.04,120.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,31.35,680.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,34.3,473.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,45.0,400.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,32.5,60.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,43.0,650.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,35.0,500.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,35.0,100.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,14.95,500.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,45.0,500.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,28.0,650.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,49.5,473.0,mL,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,57.0,473.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,64.0,450.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,44.95,473.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,49.95,591.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,44.75,355.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,43.1,100.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,45.0,750.0,mL,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,137.0,473.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,39.95,473.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,31.35,680.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,99.0,450.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,35.0,500.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,46.05,591.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,47.0,473.0,mL,E-commerce
+C4-Car leather conditioner,Leather and vinyl conditioner,Automotive,Transportation,69.0,473.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,22.9,500.0,mL,E-commerce
+C4-Car upholstery cleaner,Upholstery cleaner,Automotive,Transportation,50.0,500.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,29.5,500.0,mL,E-commerce
+C4-Car leather cleaner,Leather and vinyl cleaner,Automotive,Transportation,29.0,500.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,18.89,295.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,116.61,1000.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,68.56,500.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,53.01,450.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,49.5,473.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,77.13,250.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,142.0,1000.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,27.65,30.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,49.99,100.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,32.26,100.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,18.9,50.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,39.9,30.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,49.5,450.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,95.0,355.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,51.0,307.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,51.95,473.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,50.0,500.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,31.0,118.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,85.95,828.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,70.15,50.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,61.46,500.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,18.85,900.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,45.0,500.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,31.35,680.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,19.0,500.0,mL,E-commerce
+C4-Car dashboard and plastic protectant,Surface lubricant and protectant,Automotive,Transportation,14.95,500.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,36.45,550.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,36.1,680.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,17.95,118.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,67.0,473.0,mL,E-commerce
+C4-Car surface disinfectant,Disinfectant and cleaner,Automotive,Transportation,42.5,500.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,22.62,45.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,63.0,60.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,20.0,2.5,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,22.0,2.5,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,20.36,4.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,62.96,60.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,59.0,160.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,33.99,300.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,76.5,450.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,34.68,50.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,19.0,2.5,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,69.0,60.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,47.0,400.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,69.0,60.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,19.0,2.5,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,65.0,60.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,14.9,35.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,32.0,100.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,46.0,100.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,69.0,60.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,125.1,5.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,63.0,60.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,25.0,100.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,44.2,60.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,49.95,473.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,66.15,60.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,36.0,100.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,109.2,74.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,39.95,60.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,82.0,473.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,29.0,100.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,69.0,60.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,19.0,2.5,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,69.0,60.0,mL,E-commerce
+C4-Car air freshener,Air freshener,Automotive,Transportation,19.0,2.5,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,29.0,100.0,mL,E-commerce
+C4-Car odor eliminator,Odor eliminator,Automotive,Transportation,24.5,4.14,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,48.5,500.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,53.95,443.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,115.24,532.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,129.96,1000.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,110.0,473.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,285.83,3780.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,115.13,532.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,151.46,946.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,172.54,710.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,36.0,473.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,61.18,500.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,32.0,450.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,48.0,900.0,mL,E-commerce
+C5-Car bug and poop remover,Bug remover,Automotive,Transportation,64.0,1350.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,21.13,500.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,30.41,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,19.63,650.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,35.36,946.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,83.0,886.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,27.0,650.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,96.0,1540.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,55.0,500.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,54.0,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,126.0,1000.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,178.0,946.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,36.3,650.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,46.0,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,16.55,800.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,24.7,300.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,39.5,946.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,39.0,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,52.0,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,38.0,443.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,49.0,750.0,mL,E-commerce
+C6-Car engine degreaser,Degreaser,Automotive,Transportation,40.0,510.0,mL,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,29.99,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,10.99,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,76.99,1.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,12.15,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,18.38,1.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,10.62,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,28.79,4.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,10.62,2.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,9.77,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,9.8,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,28.9,20.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,49.0,3.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,7.2,1.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,44.65,1.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,19.25,1.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,19.95,4.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,25.0,5.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,8.9,1.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,17.95,10.0,Units,E-commerce
+C7-Microfiber for vehicle cleaning,Microfiber,Automotive,Transportation,26.35,1.0,Units,E-commerce
+C7-Long brush for seating cleaning,Brush,Automotive,Transportation,39.99,1.0,Units,E-commerce
+C7-Long brush for seating cleaning,Brush,Automotive,Transportation,29.99,1.0,Units,E-commerce
+C7-Long brush for seating cleaning,Brush,Automotive,Transportation,36.22,3.0,Units,E-commerce
+C7-Long brush for seating cleaning,Brush,Automotive,Transportation,30.88,1.0,Units,E-commerce
+C7-Long brush for seating cleaning,Brush,Automotive,Transportation,32.78,1.0,Units,E-commerce
+C7-Long brush for seating cleaning,Brush,Automotive,Transportation,39.0,1.0,Units,E-commerce
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,130.0,10000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,98.0,10000.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,100.0,10000.0,mL,B2B
+F9-FM weed killer and outdoor pest control products,Pest control,Facilities management,Facilities management,120.0,10000.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,192.0,8000.0,mL,B2B
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,100.0,17100.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,100.0,5400.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,150.0,12000.0,mL,B2B
+F1-FM wood furniture cleaner,Furniture polish,Facilities management,Facilities management,260.0,5400.0,mL,B2B
+F8-FM stainless steel polish and cleaner for fixtures and fittings,Stainless steel cleaner,Facilities management,Facilities management,480.0,5400.0,mL,B2B
+F2-FM high performance waterless carpet cleaner,Upholstery cleaner,Facilities management,Facilities management,130.0,10000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,115.0,40000.0,mL,B2B
+H7-Carpet shampoo,Carpet shampoo,Home,Households,42.0,500.0,mL,E-commerce
+H1-All purpose cleaner,General purpose cleaner,Home,Households,59.75,1000.0,mL,Retail
+H10-Liquid dish soap,Dishwashing soap,Home,Households,21.95,1000.0,mL,Retail
+H9-Fabric softener,Fabric softener,Home,Households,44.95,1000.0,mL,Retail
+H9-Liquid detergent,Detergent (liquid),Home,Households,44.95,1000.0,mL,Retail
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,75.0,1300.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,299.0,5200.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,109.0,2750.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,5.75,20.0,mL,B2B
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,234.0,5750.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,24.15,90.0,mL,B2B
+F11-Fabric refresher,Fabric refresher,Facilities management,Facilities management,299.0,5000.0,mL,B2B
+F3-FM surface sanitizing wipes,Cleaning wet wipes,Facilities management,Facilities management,36.9,100.0,units,B2B
+F6-FM oven and appliance cleaner,Degreaser,Facilities management,Facilities management,146.99,750.0,mL,B2B
+F6-FM oven and appliance cleaner,Degreaser,Facilities management,Facilities management,24.73,750.0,mL,B2B
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,199.0,5000.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,89.0,500.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,789.0,20000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,448.99,12000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,74.99,2.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,218.99,4500.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,36.9,750.0,mL,B2B
+F6-FM degreaser for food service areas,Degreaser,Facilities management,Facilities management,23.0,500.0,mL,B2B
+F11-Stain remover for laundry,Stain remover,Facilities management,Facilities management,373.75,750.0,mL,B2B
+F11-Stain remover for laundry,Stain remover,Facilities management,Facilities management,69.0,750.0,mL,B2B
+F7-FM air freshener,Air freshener,Facilities management,Facilities management,998.99,6000.0,mL,B2B
+H1-All purpose cleaner,General purpose cleaner,Home,Households,207.0,6000.0,mL,B2B
+H1-All purpose cleaner,General purpose cleaner,Home,Households,34.5,1000.0,mL,B2B
+H2-Glass cleaner,Glass cleaner,Home,Households,29.33,750.0,mL,B2B
+H2-Glass cleaner,Glass cleaner,Home,Households,339.0,9000.0,mL,B2B
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,419.0,9000.0,mL,B2B
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,34.95,750.0,mL,B2B
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,359.0,9000.0,mL,B2B
+H7-Spot remover for carpets,Stain remover,Home,Households,248.4,6000.0,mL,B2B
+H4-Shower and tub cleaner,"Toilet, shower and tile cleaner",Home,Households,29.95,750.0,mL,B2B
+H7-Spot remover for carpets,Stain remover,Home,Households,31.05,500.0,mL,B2B
+H9-Liquid detergent,Detergent (liquid),Home,Households,254.0,7680.0,mL,B2B
+H9-Liquid detergent,Detergent (liquid),Home,Households,31.99,960.0,mL,B2B
+H10-Liquid dish soap,Dishwashing soap,Home,Households,29.95,500.0,mL,B2B
+H1-All purpose cleaner,General purpose cleaner,Home,Households,414.0,6000.0,mL,B2B
+H1-All purpose cleaner,General purpose cleaner,Home,Households,34.5,500.0,mL,B2B
+H9-Fabric softener,Fabric softener,Home,Households,276.0,7680.0,mL,B2B
+H9-Fabric softener,Fabric softener,Home,Households,34.9,960.0,mL,B2B
+H9-Liquid detergent,Detergent (liquid),Home,Households,254.0,7680.0,mL,B2B
+H9-Liquid detergent,Detergent (liquid),Home,Households,31.99,960.0,mL,B2B
+H12-Hand soap,Hand soap,Home,Households,60.0,3000.0,mL,B2B
+H10-Liquid dish soap,Dishwashing soap,Home,Households,60.0,6000.0,mL,B2B
+H9-Liquid detergent,Detergent (liquid),Home,Households,60.0,8000.0,mL,B2B
+H9-Liquid detergent,Detergent (liquid),Home,Households,60.0,8000.0,mL,B2B
+H3-Oven and grill cleaner,Degreaser,Home,Households,60.0,3900.0,mL,B2B
+H1-All purpose cleaner,General purpose cleaner,Home,Households,60.0,3900.0,mL,B2B
+H2-Glass cleaner,Glass cleaner,Home,Households,45.0,3900.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,45.0,9000.0,mL,B2B
+H1-All purpose cleaner,General purpose cleaner,Home,Households,75.0,3000.0,mL,B2B
+H8-Surface disinfectant spray,Disinfectant and cleaner,Home,Households,60.0,3900.0,mL,B2B
+H12-Hand soap,Hand soap,Home,Households,75.0,3000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,120.0,9000.0,mL,B2B
+H10-Dishwasher detergent,Dishwasher detergent (machine),Home,Households,24.0,250.0,mL,B2B
+H10-Dishwasher rinse aid,Dishwasher rinse aid,Home,Households,25.0,500.0,mL,B2B
+R5-Floor degreaser for kitchen areas,Floor cleaner,Restaurants,Horeca,200.0,25000.0,mL,B2B
+R3-Hand sanitizer for staff and customers,Hand sanitizer,Restaurants,Horeca,215.0,20000.0,mL,B2B
+R3-Antibacterial hand soap,Hand soap,Restaurants,Horeca,215.0,20000.0,mL,B2B
+R1-Glass cleaner,Glass cleaner,Restaurants,Horeca,75.0,10000.0,mL,B2B
+R4-Manual dishwashing soap,Dishwashing soap,Restaurants,Horeca,560.0,40000.0,mL,B2B
+R1-No-rinse sanitizers for quick cleaning,Disinfectant and cleaner,Restaurants,Horeca,380.0,30000.0,mL,B2B
+R4-Rinse aid for spot-free drying,Dishwasher rinse aid,Restaurants,Horeca,470.0,30000.0,mL,B2B
+R3-Antibacterial hand soap,Hand soap,Restaurants,Horeca,290.0,50000.0,mL,B2B
+R2-Oven and fryer cleaner,Degreaser,Restaurants,Horeca,250.0,20000.0,mL,B2B
+R1-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Restaurants,Horeca,37.0,20000.0,mL,B2B
+R1-Food-grade sanitizers for countertops and prep areas,Disinfectant and cleaner,Restaurants,Horeca,81.6,10000.0,mL,B2B
+R2-Heavy-duty kitchen degreaser for grills and hoods,Degreaser,Restaurants,Horeca,107.95,10000.0,mL,B2B
+R1-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Restaurants,Horeca,72.25,200.0,units,B2B
+R3-Antibacterial hand soap,Hand soap,Restaurants,Horeca,89.25,10000.0,mL,B2B
+R2-Oven and fryer cleaner,Degreaser,Restaurants,Horeca,97.75,10000.0,mL,B2B
+R1-General sanitizer for vegetable and salad washing,Disinfectant and cleaner,Restaurants,Horeca,293.25,10000.0,g,B2B
+R4-Automatic dishwasher detergent,Dishwasher detergent (machine),Restaurants,Horeca,243.95,25000.0,mL,B2B
+R4-Rinse aid for spot-free drying,Dishwasher rinse aid,Restaurants,Horeca,263.5,25000.0,mL,B2B
+R3-Hand sanitizer for staff and customers,Hand sanitizer,Restaurants,Horeca,142.8,10000.0,mL,B2B
+R3-Antibacterial hand soap,Hand soap,Restaurants,Horeca,106.25,10000.0,mL,B2B
+R1-Glass cleaner,Glass cleaner,Restaurants,Horeca,88.4,10000.0,mL,B2B
+R1-Food-grade sanitizers for countertops and prep areas,Disinfectant and cleaner,Restaurants,Horeca,151.3,10000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,175.95,6750.0,mL,B2B
+R1-Wood furniture cleaner,Furniture polish,Restaurants,Horeca,136.85,5400.0,mL,B2B
+R8-Metal polish for cookware and utensils,Stainless steel cleaner,Restaurants,Horeca,239.7,10000.0,mL,B2B
+F4-FM heavy-duty toilet and urinal cleaner,"Toilet, shower and tile cleaner",Facilities management,Facilities management,115.6,10000.0,mL,B2B
+R8-Stainless steel polish for equipment and fixtures,Stainless steel cleaner,Restaurants,Horeca,80.75,1500.0,mL,B2B
+R5-Drain cleaner for maintenance,Drain opener and clog remover,Restaurants,Horeca,107.95,5400.0,mL,B2B
+H8-Disinfectant wipes,Cleaning wet wipes,Home,Households,39.95,35.0,units,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,35.95,500.0,mL,Retail
+H1-All purpose cleaner,General purpose cleaner,Home,Households,39.95,750.0,mL,Retail
+H4-Toilet bowl cleaner,"Toilet, shower and tile cleaner",Home,Households,39.95,750.0,mL,Retail
+H3-Kitchen degreaser,Degreaser,Home,Households,69.95,946.0,mL,Retail
+R8-Stainless steel polish for equipment and fixtures,Stainless steel cleaner,Restaurants,Horeca,39.95,498.94,g,Retail
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,84.0,5400.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,84.0,5400.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,84.0,5400.0,mL,B2B
+H6-Wood polish for furniture,Furniture polish,Home,Households,122.54,6000.0,mL,B2B
+F6-FM manual dishwashing soap,Dishwashing soap,Facilities management,Facilities management,80.5,16000.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,58.0,7800.0,mL,B2B
+F5-FM streak-free glass cleaner for large window areas,Glass cleaner,Facilities management,Facilities management,69.0,16000.0,mL,B2B
+F1-FM general purpose cleaner,General purpose cleaner,Facilities management,Facilities management,96.0,30000.0,mL,B2B
+F3-FM hand sanitizer for staff use,Hand sanitizer,Facilities management,Facilities management,270.0,20000.0,mL,B2B
+F3-FM broad-spectrum disinfectant for surfaces and touchpoints,Disinfectant and cleaner,Facilities management,Facilities management,60.0,270000.0,mL,B2B
+F2-FM general hard floor cleaner,Floor cleaner,Facilities management,Facilities management,110.0,16000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,110.0,16000.0,mL,B2B
+F4-FM hand soap,Hand soap,Facilities management,Facilities management,110.0,16000.0,mL,B2B
